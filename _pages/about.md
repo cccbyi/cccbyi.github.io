@@ -98,8 +98,7 @@ Academic Services
 
 ***
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=290&t=n&d=2xlkQUsEI7D_xiq21dSXpX29Qkh92cncUqCd1YAFllE&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=285&t=n&d=2xlkQUsEI7D_xiq21dSXpX29Qkh92cncUqCd1YAFllE&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
 
 
