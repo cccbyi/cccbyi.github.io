@@ -32,14 +32,14 @@ Algorithm 2: The Proposed Off-grid Hybrid-field SGP Channel Estimation Scheme wi
 
 
 
-<br/><img src='/images/Paper/Paper12/FIG2.png' width = "1000">
+<br/><img src='/images/Paper/Paper12/FIG2.png' width = "1200">
 
 
-<br/><img src='/images/Paper/Paper12/FIG3.png' width = "1000">
+<br/><img src='/images/Paper/Paper12/FIG3.png' width = "1200">
 
-<br/><img src='/images/Paper/Paper12/FIG4.png' width = "1000">
+<br/><img src='/images/Paper/Paper12/FIG4.png' width = "1200">
 
-<br/><img src='/images/Paper/Paper12/FIG5.png' width = "1000">
+<br/><img src='/images/Paper/Paper12/FIG5.png' width = "1200">
 
 Simulation Results
 
