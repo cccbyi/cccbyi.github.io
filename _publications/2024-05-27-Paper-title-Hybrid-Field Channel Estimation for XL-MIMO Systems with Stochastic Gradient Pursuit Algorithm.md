@@ -26,7 +26,7 @@ Fig. 1: The hybrid-field communication scenario with a uniform linear array (ULA
 
 Algorithm 1: The Proposed On-grid Hybrid-field SGP Channel Estimation Scheme with Prior Knowledge of the Adjustable Parameter to Measure the Ratio of Near-Field and Far-Field Paths.
 
-<br/><img src='/images/Paper/Paper12/AL2.png'' width = "900">
+<br/><img src='/images/Paper/Paper12/AL2.png' width = "900">
 
 Algorithm 2: The Proposed Off-grid Hybrid-field SGP Channel Estimation Scheme without Prior Knowledge of the Adjustable Parameter to Measure the Ratio of Near-Field and Far-Field Paths.
 
