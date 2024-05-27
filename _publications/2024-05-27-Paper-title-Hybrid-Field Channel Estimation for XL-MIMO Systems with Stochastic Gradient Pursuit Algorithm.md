@@ -6,7 +6,7 @@ permalink: /publications/2024-05-27-Paper-title-Hybrid-Field Channel Estimation 
 date: 2024-05-27
 venue: 'IEEE Transactions on Signal Processing'
 paperurl: 'https://arxiv.org/pdf/2405.15345'
-thumbnail: /images/Paper/Paper10/Fig3.png
+thumbnail: /images/Paper/Paper12/FIG1.png
 citation: 'Hao Lei, Jiayi Zhang, Zhe Wang, Bo Ai, and Derrick Wing Kwan Ng, “Hybrid-Field Channel Estimation for XL-MIMO Systems with Stochastic Gradient Pursuit Algorithm,” IEEE Transactions on Signal Processing, accepted, 2024.'
 ---
 
@@ -18,33 +18,29 @@ citation: 'Hao Lei, Jiayi Zhang, Zhe Wang, Bo Ai, and Derrick Wing Kwan Ng, “H
 **Index Terms**: Hybrid-field communication, XL-MIMO, channel estimation, compressive sensing
 
 
-<br/><img src='/images/Paper/Paper10/Fig1.png' width = "900">
+<br/><img src='/images/Paper/Paper12/FIG1.png' width = "900">
 
-Fig. 1: The major differences in resource allocation between near and far-field include beamforming, power control, and channel estimation. We consider a communication system with a frequency of 28GHz and an array aperture of 1m. Accordingly, the Rayleigh distance is 187m, and users are more likely located in the near-field region. The major application scenarios for near-field resource allocation include XL-MIMO systems, RIS-aided communication systems, and cell-free communication systems.
+Fig. 1: The hybrid-field communication scenario with a uniform linear array (ULA) at the BS in the XL-MIMO system, where the UE is equipped with multiple antennas. The Rayleigh distance is a widely adopted boundary to separate near-field and far-field communications.
 
-<br/><img src='/images/Paper/Paper10/Fig2.png' width = "900">
+<br/><img src='/images/Paper/Paper12/AL1.png' width = "900">
 
-Fig. 2: Comparison of near-field and far-field channel characteristics.
+Algorithm 1: The Proposed On-grid Hybrid-field SGP Channel Estimation Scheme with Prior Knowledge of the Adjustable Parameter to Measure the Ratio of Near-Field and Far-Field Paths.
 
+<br/><img src='/images/Paper/Paper12/AL2.png'' width = "900">
 
-<br/><img src='/images/Paper/Paper10/Fig3.png' width = "900">
-
-Fig. 3: At the base station, the signal arrives at the receiver through resource allocation strategies such as precoding and power control, passing through the near-field channel. At the receiver, user grouping and scheduling strategies improve efficiency. Besides, we introduce three major challenges and solutions for near-field resource allocation.
-
-
-
-<br/><img src='/images/Paper/Paper10/Fig4.png' width = "900">
-
-Fig. 4: Near-field resource allocation problems and corresponding optimization problems and tools.
+Algorithm 2: The Proposed Off-grid Hybrid-field SGP Channel Estimation Scheme without Prior Knowledge of the Adjustable Parameter to Measure the Ratio of Near-Field and Far-Field Paths.
 
 
 
-<br/><img src='/images/Paper/Paper10/Table1.png' width = "900">
+<br/><img src='/images/Paper/Paper12/FIG2.png' width = "900">
 
-Table 1: The optimization tools for near-field resource allocation and solutions include numerical optimization, heuristic optimization, and machine learning.
 
-<br/><img src='/images/Paper/Paper10/Fig5.png' width = "900">
+<br/><img src='/images/Paper/Paper12/FIG3.png' width = "900">
 
-Fig. 5: Scenario 1: Beamforming design in XL-MIMO systems. The BS has N = 128 antennas and the carrier frequency is f = 30 GHz. Scenario 2: Power control in cell-free communication systems. The number of access points is 9, serving 6 receivers. The communication bandwidth is 20 MHz and the noise power is σ2 = −69 dBm. All transmitters transmit with a transmission power of no more than 200 mW
+<br/><img src='/images/Paper/Paper12/FIG4.png' width = "900">
+
+<br/><img src='/images/Paper/Paper12/FIG5.png' width = "900">
+
+Simulation Results
 
 
