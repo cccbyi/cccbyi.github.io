@@ -36,7 +36,7 @@ Submitted Papers
 1. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo Ai, and Khaled B. Letaief, ["Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision,"](https://arxiv.org/abs/2404.08878) submitted, 2024.
 1. **Zhe Wang**, Jiayi Zhang, Wenhui Yi, Hongyang Du, Dusit Niyato, Bo Ai, and Derrick Wing Kwan Ng, ["Analytical Framework for Effective Degrees of
 Freedom in Near-Field XL-MIMO,"](https://arxiv.org/abs/2401.15280) submitted, 2024.
-2. **Zhe Wang**, Jiayi Zhang, Wenhui Yi, Huahua Xiao, Dusit Niyato, and Bo Ai, "Effective Degree of Freedom for Near-Field Plane-Based XL-MIMO with Tri-Polarization," submitted, 2024.
+
 
 
 
@@ -44,7 +44,7 @@ Freedom in Near-Field XL-MIMO,"](https://arxiv.org/abs/2401.15280) submitted, 20
 First-Author Papers
 ======
 **For all publications, please refer to Publications or my [google scholar](https://scholar.google.com/citations?user=eVeXKIEAAAAJ&hl=en).**
-
+1. **Zhe Wang**, Jiayi Zhang, Wenhui Yi, Huahua Xiao, Dusit Niyato, and Bo Ai, "Effective Degree of Freedom for Near-Field Plane-Based XL-MIMO with Tri-Polarization," ***Frontiers of Information Technology & Electronic Engineering***, accepted, 2024. <i><font color="#C93756"> We provide EDoF performance analysis framework for plane-based XL-MIMO systems with triple polarization.</font> <i>
 1. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Dusit Niyato, Shuguang Cui, Bo Ai, Mérouane Debbah, Khaled B. Letaief, and H. Vincent Poor, ["A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications,"](https://arxiv.org/abs/2307.07340) ***IEEE Communications Surveys & Tutorials*** (IF: 35.6, An1), accepted, 2024. <i><font color="#C93756"> We provide a comprehensive survey for XL-MIMO technology, including hardware design, channel modeling, signal processing, application scenarios, and future research directions.</font><i>
 2. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Wei E. I. Sha, Bo Ai, Dusit Niyato, and Mérouane Debbah, ["Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions,"](https://arxiv.org/abs/2209.12131) ***IEEE Wireless Communications*** (IF: 12.9, An1), accepted, 2023. <i><font color="#C93756"> We briefly overview the basic fundamentals of XL-MIMO and explore the EDoF performance for non-parallel transceiver and multi-user scenarios.</font> <i>
 3. **Zhe Wang**, Jiayi Zhang, Hien Quoc Ngo, Bo Ai, and Mérouane Debbah, ["Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE,"](https://arxiv.org/abs/2301.02417) ***IEEE Transactions on Communications*** (IF: 8.3, An2), vol. 70, no. 3, pp. 1646-1664, Mar. 2023. <i><font color="#C93756">To efficiently benefit from multiple antennas at the user-side, we study the uplink precoding design in CF mMIMO systems based on Iteratively Weighted sum-Minimum Mean Square Error (I-WMMSE) algorithms.</font> <i>
