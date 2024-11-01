@@ -6,7 +6,7 @@ permalink: /submitted/2024-07-26-Optimal Bilinear Equalizer for Cell-Free Massiv
 date: 2024-07-26
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2407.18531'
-thumbnail: /images/Paper/Paper14/4.png
+thumbnail: /images/Paper/Paper14/5.png
 citation: 'Zhe Wang, Jiayi Zhang, Emil Björnson, Dusit Niyato, Bo Ai, "Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels," arxiv: 2407.18531, 2024.'
 ---
 
