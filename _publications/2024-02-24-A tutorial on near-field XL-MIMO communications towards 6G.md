@@ -5,7 +5,6 @@ collection: publications
 permalink: /publications/2024-02-24-A tutorial on near-field XL-MIMO communications towards 6G
 date: 2024-02-24
 venue: 'IEEE Communications Surveys & Tutorials'
-paperurl: 'https://arxiv.org/pdf/2310.11044.pdf'
 citation: 'Haiquan Lu, Yong Zeng, Changsheng You, Yu Han, Jiayi Zhang, Zhe Wang, Zhenjun Dong, Shi Jin, Cheng-Xiang Wang, Tao Jiang, Xiaohu You, and Rui Zhang, "A Tutorial on Near-Field XL-MIMO Communications Towards 6G," arXiv:2310.11044, 2023. 
 ---
 
