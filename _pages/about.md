@@ -22,7 +22,7 @@ News
 1. **[May 2024]** One first-author paper titled ["Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision"](https://zhewang77.github.io/files/Generative AI Agent for Next-Generation MIMO Design Fundamentals, Challenges, and Vision.pdf) has been selected in [Research Library of Large Generative AI Models in Telecom](https://genainet.committees.comsoc.org/research-library/). 
 
 <details>
-<summary><strong>👉More News</strong></summary>
+<summary><strong>👉 More News</strong></summary>
 <ol start="4">
 <li><b>[May 2024]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Hybrid-Field Channel Estimation for XL-MIMO Systems with Stochastic Gradient Pursuit Algorithm.pdf">"Hybrid-Field Channel Estimation for XL-MIMO Systems with Stochastic Gradient Pursuit Algorithm"</a> is accepted by <b><i>IEEE Transactions on Signal Processing</i></b> (IF: 5.4, An2). The first author is my colleague <a href="https://scholar.google.com/citations?hl=en&user=H6GEFKwAAAAJ">Hao Lei</a>.</li>    
 <li><b>[Apr. 2024]</b> One participating white paper "6G Near-Field Technologies White Paper" has been released. This white paper is the <font color="#C93756">first one about near-field technologies</font> around the world: <a href="https://zhewang77.github.io/files/6G_Near_Field_Technologies_White_Paper.pdf">English version</a> and <a href="https://zhewang77.github.io/files/6G_Near_Field_Technologies_White_Paper.pdf">Chinese version</a>. </li>   
