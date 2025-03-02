@@ -38,6 +38,7 @@ News
 <li><b>[Sep. 2020]</b> I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate.</li>
 </ol>
 </details>
+---
 
 Submitted Papers
 ======
