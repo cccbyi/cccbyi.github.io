@@ -17,7 +17,6 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
-1. <b>[Dec. 2024]</b> I finished my visiting time at Nanyang Technological University, Singapore. Thanks for everyone meeting in Singapore!
 1. <b>[Nov. 2024]</b> I finished my visiting time at Nanyang Technological University, Singapore. Thanks for everyone meeting in Singapore!
 2. One collaborative paper titled <a href="https://zhewang77.github.io/files/Near-Field User Localization and Channel Estimation for XL-MIMO Systems Fundamentals, Recent Advances, and Outlooks.pdf">"Near-Field User Localization and Channel Estimation for XL-MIMO Systems Fundamentals, Recent Advances, and Outlooks"</a> is accepted by <b><i>IEEE Wireless Communications</i></b> (IF: 12.9, An1). The first author is my colleague <a href="https://scholar.google.com/citations?hl=en&user=H6GEFKwAAAAJ">Hao Lei</a>.
 1. <b>[Nov. 2024]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Near-Field User Localization and Channel Estimation for XL-MIMO Systems Fundamentals, Recent Advances, and Outlooks.pdf">"Near-Field User Localization and Channel Estimation for XL-MIMO Systems Fundamentals, Recent Advances, and Outlooks"</a> is accepted by <b><i>IEEE Wireless Communications</i></b> (IF: 12.9, An1). The first author is my colleague <a href="https://scholar.google.com/citations?hl=en&user=H6GEFKwAAAAJ">Hao Lei</a>.
