@@ -46,11 +46,7 @@ News
 
 Submitted Papers
 ======
-1. **Zhe Wang**, Jiayi Zhang, Emil Björnson, Dusit Niyato, and Bo Ai, ["Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels,"](https://arxiv.org/abs/2407.18531) submitted, 2024.
 1. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo Ai, and Khaled B. Letaief, ["Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision,"](https://arxiv.org/abs/2404.08878) submitted, 2024.
-1. **Zhe Wang**, Jiayi Zhang, Wenhui Yi, Hongyang Du, Dusit Niyato, Bo Ai, and Derrick Wing Kwan Ng, ["Analytical Framework for Effective Degrees of
-Freedom in Near-Field XL-MIMO,"](https://arxiv.org/abs/2401.15280) submitted, 2024.
-2. Hao Lei, Jiayi Zhang, **Zhe Wang**, Huahua Xiao, Bo Ai, and Emil Björnson, ["Near-Field User Localization and Channel Estimation for XL-MIMO Systems: Fundamentals, Recent Advances, and Outlooks,"](https://arxiv.org/abs/2407.10147) submitted, 2024.
 
 ---
 
