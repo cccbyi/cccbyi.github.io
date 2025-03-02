@@ -36,7 +36,15 @@ News
 <details>
 <summary><strong>More News</strong></summary>
 <ol start="14">
-<li><b>[Feb. 2022]</b> Our paper titled <a href="https://zhewang77.github.io/files/Uplink performance of cell-free massive MIMO over spatially correlated Rician fading channels.pdf">"Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels"</a> is accepted by <b><i>IEEE Communications Letters</i></b> (IF: 4.1, An3).</li>
+<li><b>[Apr. 2024]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Resource Allocation for Near-Field Communications Fundamentals, Tools, and Outlooks.pdf">"Resource Allocation for Near-Field Communications: Fundamentals, Tools, and Outlooks"</a> is accepted by <b><i>IEEE Wireless Communications</i></b> (IF: 12.9, An1). The first author is my colleague <a href="https://scholar.google.com/citations?user=MADxtRsAAAAJ&hl=en">Bokai Xu</a>.</li>  
+<li><b>[Dec. 2023]</b> Our paper titled <a href="https://zhewang77.github.io/files/A Tutorial on Extremely Large-Scale MIMO for 6G Fundamentals, Signal Processing, and Applications.pdf">"A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications"</a> is accepted by <b><i>IEEE Communications Surveys & Tutorials</i></b> (IF: 35.6, An1), which is the highest one in all IEEE journals/magazines!</li>
+<li><b>[Nov. 2023]</b> I start my new journey at the School of Computer Science and Engineering, Nanyang Technological University, Singapore, as a visiting Ph.D. Student.</li> 
+<li><b>[Oct. 2023]</b> I am honored to receive the <font color="#C93756">National Scholarship for Doctoral Students</font>!</li> 
+<li><b>[May 2023] I am honored to receive the <font color="#C93756">ICC 2023 Best Paper Awards</font>!</li> 
+<li><b>[Apr. 2023]</b> Our paper titled <a href="https://zhewang77.github.io/files/Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE.pdf">"Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions"</a> is accepted by <b><i>IEEE Wireless Communications</i></b> (IF: 12.9, An1).</li>
+<li><b>[Feb. 2022]</b> Our paper titled <a href="https://zhewang77.github.io/files/Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE.pdf">"Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE"</a> is accepted by <b><i>IEEE Transactions on Communications</i></b> (IF: 8.3, An2).</li>
+<li><b>[Feb. 2022]</b> Our paper titled <a href="https://zhewang77.github.io/files/Uplink performance of cell-free massive MIMO over spatially correlated Rician fading channels.pdf">"Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels"</a> is accepted by <b><i>IEEE Transactions on Wireless Communications</i></b> (IF: 10.4, An2).</li>
+<li><b>[Feb. 2021]</b> Our paper titled <a href="https://zhewang77.github.io/files/Uplink performance of cell-free massive MIMO over spatially correlated Rician fading channels.pdf">"Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels"</a> is accepted by <b><i>IEEE Communications Letters</i></b> (IF: 4.1, An3).</li>
 <li><b>[Sep. 2020]</b> I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate.</li>
 </ol>
 </details>
