@@ -7,7 +7,7 @@ date: 2024-11-05
 venue: 'IEEE Wireless Communications'
 paperurl: 'https://arxiv.org/pdf/2407.10147'
 thumbnail: /images/Paper/Paper13/3.png
-citation: 'Hao Lei, Jiayi Zhang, Zhe Wang, Huahua Xiao, Bo Ai, and Emil Björnson, "Near-Field User Localization and Channel Estimation for XL-MIMO Systems: Fundamentals, Recent Advances, and Outlooks," IEEE Wireless Communications, accepted,2024.'
+citation: 'Hao Lei, Jiayi Zhang, Zhe Wang, Huahua Xiao, Bo Ai, and Emil Björnson, "Near-Field User Localization and Channel Estimation for XL-MIMO Systems: Fundamentals, Recent Advances, and Outlooks," IEEE Wireless Communications, accepted, 2024.'
 ---
 
 
