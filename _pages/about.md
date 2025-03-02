@@ -9,13 +9,14 @@ redirect_from:
 
 I am pursuing my Ph.D. degree with the [School of Electronic and Information Engineering](http://eie.bjtu.edu.cn/), Beijing Jiaotong University, China, since Sep/2020. My supervisor is Prof. [Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/). From Nov/2023 to Nov/2024, I was a visiting Ph.D. student at the School of Computer Science and Engineering, Nanyang Technological University, Singapore. My supervisor during my visiting time at Nanyang Technological University is Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/).
 
-My research primarily focuses on next-generation MIMO technology, including **extremely large-scale MIMO (XL-MIMO)** and **cell-free massive MIMO (CF mMIMO)**. Our key objective is to explore <font color="#C93756">"performance analysis and efficient design for next-generation MIMO systems"</font>. If you are interested in our work, you can refer to this [repository](https://github.com/BJTU-MIMO) and WeChat official account (ID: BJTU MIMO) for the latest updates of our group!
+My research primarily focuses on next-generation MIMO technology, including **extremely large-scale MIMO (XL-MIMO)** and **cell-free massive MIMO (CF mMIMO)**. Our key objective is to explore <font color="#C93756">"performance analysis and efficient design for next-generation MIMO systems"</font>. You can find my simulation source codes in my [GitHub](https://github.com/ZheWang77) account. If you are interested in our work, you can refer to this [repository](https://github.com/BJTU-MIMO) and WeChat official account (ID: BJTU MIMO) for the latest updates of our group!
 
 If you have any questions or have an interest in collaborating with me, please feel free to email me (zhewang_77@bjtu.edu.cn) or add my WeChat (zhewang_77)!
 
 
 News
 ======
+
 1. **[Sep. 2024]** One first-author paper titled ["Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions"](https://zhewang77.github.io/files/Extremely Large-Scale MIMO Fundamentals, Challenges, Solutions, and Future Directions.pdf) has been an **ESI Highly Cited Paper**.
 1. **[Jul. 2024]** One first-author paper titled ["Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions"](https://zhewang77.github.io/files/Extremely Large-Scale MIMO Fundamentals, Challenges, Solutions, and Future Directions.pdf) has been selected as one of the top 50 most popular articles of ***IEEE Wireless Communications***.
 1. **[May 2024]** One first-author paper titled ["Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision"](https://zhewang77.github.io/files/Generative AI Agent for Next-Generation MIMO Design Fundamentals, Challenges, and Vision.pdf) has been selected in [Research Library of Large Generative AI Models in Telecom](https://genainet.committees.comsoc.org/research-library/). 
@@ -31,6 +32,16 @@ News
 7. **[Feb. 2022]** Our paper titled ["Uplink Performance of Cell-Free Massive MIMO with Multi-Antenna Users Over Jointly-Correlated Rayleigh Fading Channels"](https://zhewang77.github.io/files/Uplink Performance of Cell-Free Massive MIMO with Multi-Antenna Users Over Jointly-Correlated Rayleigh Fading Channels.pdf) is accepted by ***IEEE Transactions on Wireless Communications*** (IF: 10.4, An2).
 8. **[Feb. 2022]** Our paper titled ["Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels"](https://zhewang77.github.io/files/Uplink performance of cell-free massive MIMO over spatially correlated Rician fading channels.pdf) is accepted by ***IEEE Communications Letters*** (IF: 4.1, An3).
 9. **[Sep. 2020]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate.
+
+
+<details>
+<summary><strong>More News</strong></summary>
+<ol start="14">
+    <li>**[Feb. 2022]** Our paper titled ["Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels"](https://zhewang77.github.io/files/Uplink performance of cell-free massive MIMO over spatially correlated Rician fading channels.pdf) is accepted by ***IEEE Communications Letters*** (IF: 4.1, An3).</li>
+    <li>**[Sep. 2020]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate.</li>
+</ol>
+</details>
+
 
 Submitted Papers
 ======
