@@ -33,7 +33,13 @@ News
 8. **[Feb. 2022]** Our paper titled ["Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels"](https://zhewang77.github.io/files/Uplink performance of cell-free massive MIMO over spatially correlated Rician fading channels.pdf) is accepted by ***IEEE Communications Letters*** (IF: 4.1, An3).
 9. **[Sep. 2020]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate.
 
-
+<details>
+<summary><strong>More News</strong></summary>
+<ol start="14">
+    <li><b>[May/2024]</b> One <a href="https://arxiv.org/abs/2308.05384">first-author paper</a> was accepted by IEEE COMST.</li>
+    <li></b>[Jan/2022]</b> I am honored to be recognized as the <span style="color: green;">Exemplary Reviewer of the IEEE TCOM</span>, 2021!</li>
+</ol>
+</details>
 
 Submitted Papers
 ======
