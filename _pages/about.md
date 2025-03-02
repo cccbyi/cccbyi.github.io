@@ -13,6 +13,7 @@ My research primarily focuses on next-generation MIMO technology, including **ex
 
 If you have any questions or have an interest in collaborating with me, please feel free to email me (zhewang_77@bjtu.edu.cn) or add my WeChat (zhewang_77)!
 
+---
 
 News
 ======
@@ -39,6 +40,7 @@ News
 </ol>
 </details>
 
+---
 
 Submitted Papers
 ======
@@ -48,7 +50,7 @@ Submitted Papers
 Freedom in Near-Field XL-MIMO,"](https://arxiv.org/abs/2401.15280) submitted, 2024.
 2. Hao Lei, Jiayi Zhang, **Zhe Wang**, Huahua Xiao, Bo Ai, and Emil Björnson, ["Near-Field User Localization and Channel Estimation for XL-MIMO Systems: Fundamentals, Recent Advances, and Outlooks,"](https://arxiv.org/abs/2407.10147) submitted, 2024.
 
-
+---
 
 
 First-Author Papers
@@ -60,7 +62,9 @@ First-Author Papers
 3. **Zhe Wang**, Jiayi Zhang, Hien Quoc Ngo, Bo Ai, and Mérouane Debbah, ["Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE,"](https://arxiv.org/abs/2301.02417) ***IEEE Transactions on Communications*** (IF: 8.3, An2), vol. 70, no. 3, pp. 1646-1664, Mar. 2023. <i><font color="#C93756">To efficiently benefit from multiple antennas at the user-side, we study the uplink precoding design in CF mMIMO systems based on Iteratively Weighted sum-Minimum Mean Square Error (I-WMMSE) algorithms.</font> <i>
 4. **Zhe Wang**, Jiayi Zhang, Bo Ai, Chau Yuen, and Mérouane Debbah, ["Uplink Performance of Cell-Free Massive MIMO with Multi-Antenna Users Over Jointly-Correlated Rayleigh Fading Channels,"](https://arxiv.org/abs/2110.04962) ***IEEE Transactions on Wireless Communications*** (IF: 10.4, An2), vol. 21, no. 9, pp. 7391–7406, Sep. 2022.  <i><font color="#C93756">We study four uplink implementations for CF mMIMO systems with multi-antenna users, from fully centralized processing to fully distributed processing. We observe that the system performance may not always benefit from the number of antennas per user.</font> <i>
 5. **Zhe Wang**, Jiayi Zhang, Hien Quoc Ngo, Bo Ai, and Mérouane Debbah, ["Iteratively Weighted MMSE Uplink Precoding for Cell-Free Massive MIMO,"](https://arxiv.org/abs/2201.11299) ***IEEE International Conference on Communications (ICC)***, 2022.  <i><font color="#C93756">A conference version of "Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE,"</font> <i>
-6. **Zhe Wang**, Jiayi Zhang, Emil Björnson, and Bo Ai, ["Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels,"](https://arxiv.org/abs/2110.05796) ***IEEE Communications Letters*** (IF: 4.1, An3), vol. 25, no. 4, pp. 1348–1352, Apr. 2021.  <i><font color="#C93756">We analyze the uplink spectral efficiency for CF mMIMO systems over spatially correlated Rician fading channels. This channel is practical due to the consideration of phase-shift and spatial correlation.</font> <i>
+6. **Zhe Wang**, Jiayi Zhang, Emil Björnson, and Bo Ai, ["Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels,"](https://arxiv.org/abs/2110.05796) ***IEEE Communications Letters*** (IF: 4.1, An3), vol. 25, no. 4, pp. 1348–1352, Apr. 2021.  <i><font color="#C93756">We analyze the uplink spectral efficiency for CF mMIMO systems over spatially correlated Rician fading channels. This channel is practical due to the consideration of phase-shift and spatial correlation.</font> <I>
+
+---
 
 Co-Supervised Papers
 ======
@@ -70,7 +74,7 @@ Co-Supervised Papers
 4. Xin Li, Jiayi Zhang, **Zhe Wang**, Bo Ai, and Derrick Wing Kwan Ng, ["Cell-Free Massive MIMO with Multi-Antenna Users over Weichselberger Rician Channels,"](https://arxiv.org/abs/2207.10891) ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2), vol. 71, no. 11, pp. 12368–12373, Nov. 2022.  <i><font color="#C93756">We study CF mMIMO systems with multi-antenna users over Weichselberger Rician fading channels with random phase-shifts. We propose a practical uplink precoding scheme based on only the eigenbasis of the user-side correlation matrices.</font> <i>
 5. Zhilong Liu, Jiayi Zhang, **Zhe Wang**, Bo Ai, and Derrick Wing Kwan Ng, ["Cell-Free Massive MIMO with Low-Resolution ADCs and I/Q Imbalance Over Spatially Correlated Channels,"](https://zhewang77.github.io/files/Cell-Free_Massive_MIMO_with_Low-Resolution_ADCs_and_I_Q_Imbalance_Over_Spatially_Correlated_Channels.pdf) ***IEEE Global Communications Conference (Globecom)***, 2022.<i><font color="#C93756"> We investigate CF mMIMO systems with low-resolution analog-to-digital converters (ADCs) and in-phase and quadrature-phase imbalance (IQI) over multi-antenna users. The achievable uplink spectral efficiency is analyzed based on a two-layer decoding scheme.</font> 
 
-
+---
 
 Collaborative Papers
 ======
@@ -84,6 +88,8 @@ Collaborative Papers
 affect spectral efficiency.</font>
 4. Enyu Shi, Jiayi Zhang, **Zhe Wang**, Derrick Wing Kwan Ng, and Bo Ai, ["Uplink Performance of RIS-aided Cell-Free Massive MIMO System Over Spatially Correlated Channels,"](https://arxiv.org/abs/2209.13845) ***IEEE Global Communications Conference (Globecom)***, 2022.<i><font color="#C93756"> We consider a practical spatially correlated reconfigurable intelligent surface (RIS)-aided CF mMIMO system with multi-antenna access points over spatially correlated Rician fading channels.</font> 
 
+---
+
 Awards
 ======
 1. **National Scholarship**, Ministry of Education of China, 2023 
@@ -93,6 +99,7 @@ Awards
 5. **SiNuo Education Fund Scholarship**, Beijing Jiaotong University, 2022 
 6. **National Scholarship**, Ministry of Education of China, 2020
 
+---
 
 Academic Services
 ======
