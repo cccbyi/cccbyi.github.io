@@ -1,6 +1,6 @@
 ---
 title: "Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels"
-excerpt: "This paper delineates the distinctions between near-field and far-field propagation, highlighting the unique EM characteristics introduced by having large antenna arrays. It thoroughly examines the challenges these new near-field characteristics pose for user localization and channel estimation and provides a comprehensive review of new algorithms developed to address them."
+excerpt: "We explore the low-complexity optimal bilinear equalizer (OBE) combining scheme design for cell-free massive multiple-input multiple-output networks with spatially correlated Rician fading channels. We propose one centralized and two distributed OBE schemes: Centralized OBE (C-OBE), Distributed OBE based on Global channel statistics (DG-OBE), and Distributed OBE based on Local channel statistics (DL-OBE), which maximize their respective SE expressions. OBE matrices in these schemes are tailored based on varying levels of channel statistics."
 collection: publications
 permalink: /publications/2025-02-21-Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels
 date: 2025-02-21
@@ -9,6 +9,7 @@ paperurl: 'https://arxiv.org/pdf/2407.18531'
 thumbnail: /images/Paper/Paper14/5.png
 citation: 'Zhe Wang, Jiayi Zhang, Emil Björnson, Dusit Niyato, Bo Ai, "Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels," IEEE Transactions on Signal Processing, accepted, 2025.'
 ---
+
 
 
 [Download paper here](https://zhewang77.github.io/files/Near-Field User Localization and Channel Estimation for XL-MIMO Systems Fundamentals, Recent Advances, and Outlooks.pdf)
