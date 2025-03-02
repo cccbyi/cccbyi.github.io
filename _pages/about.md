@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Zhe Wang (王者)"
 author_profile: true
