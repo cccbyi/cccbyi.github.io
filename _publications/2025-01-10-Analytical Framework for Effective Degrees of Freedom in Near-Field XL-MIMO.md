@@ -19,7 +19,6 @@ citation: 'Zhe Wang, Jiayi Zhang, Wenhui Yi, Hongyang Du, Dusit Niyato, Bo Ai, a
 **Index Terms**: XL-MIMO, effective degrees of freedom, near-field communication, polarization effect
 
 
-
 <br/><img src='/images/Paper/Paper8/Fig1.png' width = "500">
 
 Fig. 1: A UPA-based XL-MIMO system with each antenna element being a sizeless point antenna.
