@@ -1,4 +1,3 @@
-![图片](https://github.com/user-attachments/assets/fcf6756f-79cd-40ec-a4b5-b9dbf451859a)---
 permalink: /
 title: "Zhe Wang (王者)"
 author_profile: true
