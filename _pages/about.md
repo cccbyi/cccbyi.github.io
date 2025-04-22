@@ -48,7 +48,9 @@ News
 Journals & Magazines (SCI) Papers
 ======
 **For all publications, please refer to Publications or my [google scholar](https://ieeexplore.ieee.org/author/37071767300).**
+
 1.**C. Wang**, Z. Li, N. Al-Dhahir, K. J. Kim and K. -K. Wong, ["QoS-Aware Precoder Optimization for Radar Sensing and Multiuser Communications Under Per-Antenna Power Constraints," ](https://ieeexplore.ieee.org/abstract/document/10132501).IEEE Transactions on Signal Processing, Accepted for publication, 2023.(IF= 4.931)
+
 2.**C. Wang**, Z. Li, T. -X. Zheng, D. W. K. Ng and N. Al-Dhahir, ["Intelligent Reflecting Surface-Aided Full-Duplex Covert Communications: Information Freshness Optimization,"](https://ieeexplore.ieee.org/abstract/document/10188900) IEEE Transactions on Wireless Communications, Accepted for publication, 2022. (IF=7.016)
 3.T. -X. Zheng, X. Chen, **C. Wang**, K. -K. Wong and J. -H. Yuan, [“Physical Layer Security in Large-Scale Random Multiple Access Wireless Sensor Networks: A Stochastic Geometry Approach,”](https://ieeexplore.ieee.org/abstract/document/9756566) IEEE Transactions on Communications, vol. 70, no. 6, pp. 4038-4051, June 2022. (IF=5.646)
 4.**C. Wang**, Z. Li, H. Zhang, D. W. K. Ng and N. Al-Dhahir, “Achieving Covertness and Security in Broadcast Channels with Finite Blocklength,” IEEE Transactions on Wireless Communications, vol. 21, no. 9, pp. 7624-7640, Sept. 2022. (IF=7.016)
