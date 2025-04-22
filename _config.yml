@@ -13,7 +13,7 @@ title                    : "Chao Wang"
 title_separator          : "-"
 name                     : Chao Wang
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://cccbyi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cccbyi/cccbyi.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Chao Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Associate Professor at Xidian University"
   location         : "Xi'an"
   employer         : "Red Brick University"
   uri              : "https://cccbyi.github.io"
@@ -33,11 +33,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://ieeexplore.ieee.org/author/37071767300"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
