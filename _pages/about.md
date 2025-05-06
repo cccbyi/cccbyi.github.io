@@ -16,11 +16,8 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
-1. <b>[Nov. 2024]</b> I finished my visiting time at Nanyang Technological University, Singapore. Thanks for everyone meeting in Singapore!
-1. <b>[Nov. 2024]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Near-Field User Localization and Channel Estimation for XL-MIMO Systems Fundamentals, Recent Advances, and Outlooks.pdf">"Near-Field User Localization and Channel Estimation for XL-MIMO Systems Fundamentals, Recent Advances, and Outlooks"</a> is accepted by <b><i>IEEE Wireless Communications</i></b> (IF: 12.9, An1). The first author is my colleague <a href="https://scholar.google.com/citations?hl=en&user=H6GEFKwAAAAJ">Hao Lei</a>.
-1. **[Sep. 2024]** One first-author paper titled ["Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions"](https://zhewang77.github.io/files/Extremely Large-Scale MIMO Fundamentals, Challenges, Solutions, and Future Directions.pdf) has been an **ESI Highly Cited Paper**.
-1. **[Jul. 2024]** One first-author paper titled ["Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions"](https://zhewang77.github.io/files/Extremely Large-Scale MIMO Fundamentals, Challenges, Solutions, and Future Directions.pdf) has been selected as one of the top 50 most popular articles of ***IEEE Wireless Communications***.
-1. **[May 2024]** One first-author paper titled ["Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision"](https://zhewang77.github.io/files/Generative AI Agent for Next-Generation MIMO Design Fundamentals, Challenges, and Vision.pdf) has been selected in [Research Library of Large Generative AI Models in Telecom](https://genainet.committees.comsoc.org/research-library/). 
+1. **[June 2024]**, in collaboration with University College London, Aristotle University of Thessaloniki, and other prestigious universities, the 1st Workshop on Fluid Antenna System for 6G will be held at the 2024 IEEE International Conference on Communications (ICC), a top international conference.
+2. **[June 2024]**, in collaboration with Samsung Research America and the University of Florida, the Third International Workshop on Industrial Private 5G-and-beyond Wireless Networks will be held at the 2024 IEEE International Conference on Communications (ICC), a top international conference.
 
 <details>
 <summary><strong>👉 More News</strong></summary>
