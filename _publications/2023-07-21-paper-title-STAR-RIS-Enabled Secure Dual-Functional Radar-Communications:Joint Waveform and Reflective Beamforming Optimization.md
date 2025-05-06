@@ -6,7 +6,6 @@ permalink: /publication/2023-07-21-paper-title-STAR-RIS-Enabled Secure Dual-Func
 excerpt: "We proposes a symbol-level precoding-based scheme for STAR-RIS-aided dual-functional radar-communications (DFRC) systems. The aim is to securely transmit confidential information and perform target sensing concurrently. A joint optimization problem is formulated to maximize the average received radar sensing power, subject to constraints on communication users' quality-of-service and security, as well as practical waveform design restrictions."
 date: 2023-07-21
 venue: 'IEEE Transactions on Information Forensics and Security'
-thumbnail: /images/ST.png
 paperurl: 'https://discovery.ucl.ac.uk/id/eprint/10174379/1/STARRIS-ISAC.pdf'
 citation: 'Wang C, Wang C C, Li Z, et al. STAR-RIS-enabled secure dual-functional radar-communications: Joint waveform and reflective beamforming optimization[J]. IEEE Transactions on Information Forensics and Security, 2023, 18: 4577-4592.'
 ---
@@ -17,7 +16,6 @@ The contents above will be part of a list of publications, if the user clicks th
 
 **Index Terms**: STAR-RIS, dual-functional，radar-communication, symbol-level precoding, distance-majorization.
 
-<br/><img src='/images/ST.png' width = "600">
 
 
 
