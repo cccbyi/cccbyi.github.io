@@ -7,7 +7,7 @@ excerpt: "We proposes a symbol-level precoding-based scheme for STAR-RIS-aided d
 date: 2023-05-24
 venue: 'IEEE Transactions on Information Forensics and Security'
 paperurl: 'https://discovery.ucl.ac.uk/id/eprint/10172154/1/T-SP-30232-2023%20%28Chao%20Wang%29.pdf'
-thumbnail: /images/ST.png
+thumbnail: 
 citation: 'Wang C, Li Z, Al-Dhahir N, et al. QoS-aware precoder optimization for radar sensing and multiuser communications under per-antenna power constraints[J]. IEEE Transactions on Signal Processing, 2023, 71: 2235-2250.
 ---
 <img src="/images/ST.png"  style="float: right; margin-left: 10px;">
