@@ -2,7 +2,7 @@
 title: "STAR-RIS-Enabled Secure Dual-Functional Radar-Communications: Joint Waveform and Reflective Beamforming Optimization"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-STAR-RIS-Enabled Secure Dual-Functional Radar-Communications:Joint Waveform and Reflective Beamforming Optimization
+permalink: /publication/2023-07-21-paper-title-STAR-RIS-Enabled Secure Dual-Functional Radar-Communications:Joint Waveform and Reflective Beamforming Optimization
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-07-21
 venue: 'Journal 1'
