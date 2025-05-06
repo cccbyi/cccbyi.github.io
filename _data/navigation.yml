@@ -13,12 +13,12 @@ main:
     url: /publications/
 
   - title: "Submitted"
-    url: /Submitted/    
+    url: /submitted/    
 
   - title: "Awards"
-    url: /Awards/    
+    url: /awards/    
 
   - title: "Models"
-    url: /Models/
+    url: /models/
     
   
