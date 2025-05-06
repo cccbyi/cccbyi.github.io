@@ -5,7 +5,7 @@ permalink:
 date: 2023-07-20
 venue: IEEE Transactions on Information Forensics and Security'
 paperurl: 'https://discovery.ucl.ac.uk/id/eprint/10174379/1/STARRIS-ISAC.pdf'
-thumbnail: 
+thumbnail: /images/ST.png
 citation: 'Wang C, Wang C C, Li Z, et al. STAR-RIS-enabled secure dual-functional radar-communications: Joint waveform and reflective beamforming optimization[J]. IEEE Transactions on Information Forensics and Security, 2023, 18: 4577-4592.'
 ---
 
@@ -16,8 +16,5 @@ citation: 'Wang C, Wang C C, Li Z, et al. STAR-RIS-enabled secure dual-functiona
 
 **Index Terms**: STAR-RIS, dual-functional，radar-communication, symbol-level precoding, distance-majorization.
 
-<br/><img src='/images/Paper/Paper5/11.png' width = "600">
+<br/><img src='/images/ST.png' width = "600">
 
-<br/><img src='/images/Paper/Paper5/2.png' width = "600">
-
-<br/><img src='/images/Paper/Paper5/3.png' width = "600">
