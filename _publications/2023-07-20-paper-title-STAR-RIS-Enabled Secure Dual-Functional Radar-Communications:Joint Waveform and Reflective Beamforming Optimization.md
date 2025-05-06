@@ -5,10 +5,10 @@ category: manuscripts
 permalink: /publication/2023-07-20-paper-title-STAR-RIS-Enabled Secure Dual-Functional Radar-Communications:Joint Waveform and Reflective Beamforming Optimization
 excerpt: "We proposes a symbol-level precoding-based scheme for STAR-RIS-aided dual-functional radar-communications (DFRC) systems. The aim is to securely transmit confidential information and perform target sensing concurrently. A joint optimization problem is formulated to maximize the average received radar sensing power, subject to constraints on communication users' quality-of-service and security, as well as practical waveform design restrictions."
 date: 2023-07-21
+thumbnail: /images/ST.png
 venue: 'IEEE Transactions on Information Forensics and Security'
 paperurl: 'https://discovery.ucl.ac.uk/id/eprint/10174379/1/STARRIS-ISAC.pdf'
 citation: 'Wang C, Wang C C, Li Z, et al. STAR-RIS-enabled secure dual-functional radar-communications: Joint waveform and reflective beamforming optimization[J]. IEEE Transactions on Information Forensics and Security, 2023, 18: 4577-4592.'
-<img src="/images/ST.png"  style="float: right; margin-left: 10px;">
 ---
 <img src="/images/ST.png"  style="float: right; margin-left: 10px;">
 
