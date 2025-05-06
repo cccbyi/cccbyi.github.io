@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/2023-05-24-paper-title-QoS-Aware Precoder Optimization for Radar Sensing and Multiuser Communications Under Per-Antenna Power Constraints
 excerpt: "We proposes a symbol-level precoding-based scheme for STAR-RIS-aided dual-functional radar-communications (DFRC) systems. The aim is to securely transmit confidential information and perform target sensing concurrently. A joint optimization problem is formulated to maximize the average received radar sensing power, subject to constraints on communication users' quality-of-service and security, as well as practical waveform design restrictions."
 date: 2023-05-24
-venue: 'IEEE Transactions on Information Forensics and Security'
 citation: 'Wang C, Li Z, Al-Dhahir N, et al. QoS-aware precoder optimization for radar sensing and multiuser communications under per-antenna power constraints[J]. IEEE Transactions on Signal Processing, 2023, 71: 2235-2250.
 ---
 <img src="/images/ST.png"  style="float: right; margin-left: 10px;">
