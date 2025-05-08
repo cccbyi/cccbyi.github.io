@@ -1,0 +1,29 @@
+---
+title: "A Cooperative Deception Strategy for Covert Communication in Presence of a Multi-Antenna Adversary"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-05-18-paper-title-QoS-Aware Precoder Optimization for Radar Sensing and Multiuser Communications Under Per-Antenna Power Constraints
+excerpt: "We proposes a symbol-level precoding-based scheme for STAR-RIS-aided dual-functional radar-communications (DFRC) systems. The aim is to securely transmit confidential information and perform target sensing concurrently. A joint optimization problem is formulated to maximize the average received radar sensing power, subject to constraints on communication users' quality-of-service and security, as well as practical waveform design restrictions."
+date: 2023-05-18
+venue: 'IEEE Transactions on Communications'
+paperurl: 'https://arxiv.org/pdf/2209.11171'
+thumbnail: /images/ST.png
+citation: 'Wang C, Li Z, Al-Dhahir N, et al. QoS-aware precoder optimization for radar sensing and multiuser communications under per-antenna power constraints[J]. IEEE Transactions on Signal Processing, 2023, 71: 2235-2250.'
+---
+<img src="/images/ST.png"  style="float: right; margin-left: 10px;">
+
+**Abstract**: Covert transmission is investigated for a cooperative deception strategy, where a cooperative jammer
+ (Jammer) tries to attract a multi-antenna adversary (Willie) and degrade the adversary’s reception ability
+ for the signal from a transmitter (Alice). For this strategy, we formulate an optimization problem to
+ maximize the covert rate when three different types of channel state information (CSI) are available.
+ The total power is optimally allocated between Alice and Jammer subject to Kullback-Leibler (KL)
+ divergence constraint. Different from the existing literature, in our proposed strategy, we also determine
+ the optimal transmission power at the jammer when Alice is silent, while existing works always assume
+ that the jammer’s power is fixed. Specifically, we apply the S-procedure to convert infinite constraints
+ into linear-matrix-inequalities (LMI) constraints. When statistical CSI at Willie is available, we convert
+ double integration to single integration using asymptotic approximation and substitution method. In
+ addition, the transmission strategy without jammer deception is studied as a benchmark. Finally, our
+ simulation results show that for the proposed strategy, the covert rate is increased with the number of
+ antennas at Willie. Moreover, compared to the benchmark, our proposed strategy is more robust in face
+ of imperfect CSI.
+**Index Terms**: Dual-functional radar-communication, radar sensing, transmit precoding, signal-independent interference,signal-dependent clutter
