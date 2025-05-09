@@ -7,7 +7,7 @@ excerpt: "We proposes a symbol-level precoding-based scheme for STAR-RIS-aided d
 date: 2022-03-23
 venue: 'IEEE Transactions on Wireless Communications'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740462'
-thumbnail: '/images/ST.png'
+thumbnail: '/images/0323.jpg'
 citation: 'Wang C, Li Z, Zhang H, et al. Achieving covertness and security in broadcast channels with finite blocklength[J]. IEEE Transactions on Wireless Communications, 2022, 21(9): 7624-7640.'
 ---
 <img src="/images/ST.png"  style="float: right; margin-left: 10px;">
