@@ -7,7 +7,7 @@ excerpt: "We proposes a symbol-level precoding-based scheme for STAR-RIS-aided d
 date: 2023-07-20
 venue: 'IEEE Transactions on Information Forensics and Security'
 paperurl: 'https://discovery.ucl.ac.uk/id/eprint/10174379/1/STARRIS-ISAC.pdf'
-thumbnail: /images/ST.png
+thumbnail: '/images/ST.png'
 citation: 'Wang C, Wang C C, Li Z, et al. STAR-RIS-enabled secure dual-functional radar-communications: Joint waveform and reflective beamforming optimization[J]. IEEE Transactions on Information Forensics and Security, 2023, 18: 4577-4592.'
 ---
 <img src="/images/ST.png"  style="float: right; margin-left: 10px;">
