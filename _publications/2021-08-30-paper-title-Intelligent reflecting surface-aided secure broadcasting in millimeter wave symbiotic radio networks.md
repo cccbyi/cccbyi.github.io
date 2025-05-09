@@ -3,7 +3,7 @@ title: "Intelligent reflecting surface-aided secure broadcasting in millimeter w
 collection: publications
 category: manuscripts
 permalink: /publication/2021-08-30-paper-title-Intelligent reflecting surface-aided secure broadcasting in millimeter wave symbiotic radio networks.md
-excerpt: ""
+excerpt: "We investigates secure broadcast communications in IRS-aided mmWave symbiotic radio networks, where the IRS assists the BS in secure broadcasting while delivering its own information to an IoT device. The authors aim to maximize the minimum secrecy rate of multiple users by jointly designing the hybrid precoder at the BS and the passive beamformer at the IRS, subject to rate constraints. A computationally efficient iterative algorithm based on successive convex approximation is developed to solve the non-convex optimization problem. Simulation results validate the algorithm's efficiency and superiority in improving the secrecy performance of the network."
 date: 2021-08-30
 venue: 'IEEE Transactions on Vehicular Technology'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525178'
