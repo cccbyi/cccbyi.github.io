@@ -3,7 +3,7 @@ title: "Two Novel Iterative Algorithms for Interference Alignment with Symbol Ex
 collection: publications
 category: manuscripts
 permalink: /publication/2012-10-25-paper-title-Two Novel Iterative Algorithms for Interference Alignment with Symbol Extensions in the MIMO Interference Channel.md
-excerpt: ""
+excerpt: "This paper proposes two novel iterative algorithms for interference alignment (IA) with symbol extensions in MIMO interference channels. The first algorithm minimizes the maximum per-user mean square error (MSE) while preserving the dimensionality of the desired signal. The second algorithm maximizes each receiver’s SINR while preserving the dimensionality of the desired signal."
 date: 2012-10-25
 venue: 'Sci China Inf Sci'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6543009'
