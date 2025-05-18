@@ -3,11 +3,10 @@ title: "Robust Joint Beamforming and Jamming for Secure AF Networks:Low-Complexi
 collection: publications
 category: manuscripts
 permalink: /publication/2014-07-02-paper-title-Robust Joint Beamforming and Jamming for Secure AF Networks:Low-Complexity Design.md
-excerpt: "The paper proposes a robust joint CB and CJ design for an AF relay network with multiple eavesdroppers and imperfect CSI. Using SDR and ICA, the nonconvex problem is transformed into a sequence of convex problems to maximize the worst-case secrecy rate. The proposed design is efficient and guarantees convergence to a KKT solution."
+excerpt: "<img src='/images/0702.png' style='float: right; margin: 5px;'>The paper proposes a robust joint CB and CJ design for an AF relay network with multiple eavesdroppers and imperfect CSI. Using SDR and ICA, the nonconvex problem is transformed into a sequence of convex problems to maximize the worst-case secrecy rate. The proposed design is efficient and guarantees convergence to a KKT solution."
 date: 2014-07-02
 venue: 'IEEE Transactions on Vehicular Technology'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6847741'
-thumbnail: '/images/0702.png'
 citation: ' Wang C, Wang H M. Robust joint beamforming and jamming for secure AF networks: Low-complexity design[J]. IEEE Transactions on Vehicular Technology, 2014, 64(5): 2192-2198.'
 ---
 <img src="/images/0702.png"  style="float: right; margin-left: 10px;">
