@@ -7,7 +7,7 @@ excerpt: "<img src='/images/1120.png' style='float: right; margin: 5px;'>We inve
 date: 2020-11-20
 venue: 'IEEE Transactions on Information Forensics and Security'
 paperurl: 'https://eprints.soton.ac.uk/446635/1/Hybrid_Analog_Digital_Precoder_Design_for_Securing_Cognitive_Millimeter_Wave_Networks.pdf'
-citation: ''
+citation: 'Kong Z, Song J, Wang C, et al. Hybrid analog-digital precoder design for securing cognitive millimeter wave networks[J]. IEEE Transactions on Information Forensics and Security, 2020, 16: 4019-4034.'
 ---
 
 
