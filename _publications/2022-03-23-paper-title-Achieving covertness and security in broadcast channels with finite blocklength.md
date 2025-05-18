@@ -3,14 +3,13 @@ title: "Achieving covertness and security in broadcast channels with finite bloc
 collection: publications
 category: manuscripts
 permalink: /publication/2022-03-23-paper-title-Achieving covertness and security in broadcast channels with finite blocklength.md
-excerpt: "We proposes a symbol-level precoding-based scheme for STAR-RIS-aided dual-functional radar-communications (DFRC) systems. The aim is to securely transmit confidential information and perform target sensing concurrently. A joint optimization problem is formulated to maximize the average received radar sensing power, subject to constraints on communication users' quality-of-service and security, as well as practical waveform design restrictions."
+excerpt: "<img src='/images/0323.png' style='float: right; margin: 5px;'>We proposes a symbol-level precoding-based scheme for STAR-RIS-aided dual-functional radar-communications (DFRC) systems. The aim is to securely transmit confidential information and perform target sensing concurrently. A joint optimization problem is formulated to maximize the average received radar sensing power, subject to constraints on communication users' quality-of-service and security, as well as practical waveform design restrictions."
 date: 2022-03-23
 venue: 'IEEE Transactions on Wireless Communications'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740462'
-thumbnail: '/images/0323.png.jpg'
 citation: 'Wang C, Li Z, Zhang H, et al. Achieving covertness and security in broadcast channels with finite blocklength[J]. IEEE Transactions on Wireless Communications, 2022, 21(9): 7624-7640.'
 ---
-<img src="/images/0323.png.jpg"  style="float: right; margin-left: 10px;">
+
 
 
 **Abstract**: Considering multi-user downlink ultra-high relia
@@ -39,6 +38,12 @@ ture of the BRB-based algorithm incurs a high computational
  of our proposed optimization algorithms compared with various
  benchmark algorithms and unveil the importance of exploiting
  AN for secrecy provisioning.
+
+
+ 
 **Index Terms**:  URLLC, physical layer security, covert com
 munication, branch-reduce-and-bound, penalty successive convex
  approximation.
+
+
+ <img src='/images/0323.png' style='float: right; margin: 5px;'>
