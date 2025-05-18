@@ -3,11 +3,10 @@ title: "Artificial Noise Assisted Secure Transmission under Training and Feedbac
 collection: publications
 category: manuscripts
 permalink: /publication/2015-08-05-paper-title-Artificial Noise Assisted Secure Transmission under Training and Feedback.md
-excerpt: "This paper proposes a framework for artificial noise-assisted secure transmission in MIMOME channels under training and feedback, optimizing power allocation and training overhead to maximize effective ergodic secrecy rate."
+excerpt: "<img src='/images/0805.png' style='float: right; margin: 5px;'>This paper proposes a framework for artificial noise-assisted secure transmission in MIMOME channels under training and feedback, optimizing power allocation and training overhead to maximize effective ergodic secrecy rate."
 date: 2015-08-05
 venue: 'IEEE Transactions on Signal Processing'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7180389'
-thumbnail: '/images/0805.png'
 citation: 'Wang H M, Wang C, Ng D W K. Artificial noise assisted secure transmission under training and feedback[J]. IEEE transactions on signal processing, 2015, 63(23): 6285-6298.'
 ---
 <img src="/images/0805.png"  style="float: right; margin-left: 10px;">
