@@ -19,4 +19,8 @@ citation: 'Wang C, Li Z, Zheng T X, et al. Intelligent reflecting surface-aided 
 **Index Terms**: Intelligent reflecting surface, millimeter wave, secure broadcast, symbiotic radio.
 
 
+
+<img src='/images/0830.png' style='float: right; margin: 5px;'>
+
+
 <img src='/images/0830.png' style='float: right; margin: 5px;'>
