@@ -2,7 +2,7 @@
 title: "Impact of artificial noise on cellular networks:A stochastic geometry approach "
 collection: publications
 category: manuscripts
-permalink: /publication/2016-08-24-Impact of artificial noise on cellular networks:A stochastic geometry approach.md
+permalink: /publication/2016-08-24-paper-title-Impact of artificial noise on cellular networks:A stochastic geometry approach.md
 excerpt: "<img src='/images/0824.png' style='float: right; margin: 5px;'>The paper investigates the impact of artificial noise (AN) on cellular network security using stochastic geometry. It analyzes connection and secrecy outages in a target cell, considering pilot contamination and inter-cell interference. Results show AN can enhance security but also increase interference, requiring optimized power allocation."
 date: 2016-08-24
 venue: 'IEEE Transactions on Wireless Communications'
