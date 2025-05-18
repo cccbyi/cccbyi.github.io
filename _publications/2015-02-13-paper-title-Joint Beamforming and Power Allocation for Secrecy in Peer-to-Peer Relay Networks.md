@@ -3,11 +3,10 @@ title: "Joint Beamforming and Power Allocation for Secrecy in Peer-to-Peer Relay
 collection: publications
 category: manuscripts
 permalink: /publication/2015-02-13-paper-title-Joint Beamforming and Power Allocation for Secrecy in Peer-to-Peer Relay Networks.md
-excerpt: "We proposes a joint beamforming and power allocation strategy for maximizing secrecy rate in multiuser peer-to-peer relay networks with a multi-antenna eavesdropper. By using null space beamforming to eliminate information leakage and sequential parametric convex approximation to solve the non-convex problem, the proposed method achieves significant performance improvements in secrecy rate, as demonstrated by simulations."
+excerpt: "<img src='/images/0213.png' style='float: right; margin: 5px;'>We proposes a joint beamforming and power allocation strategy for maximizing secrecy rate in multiuser peer-to-peer relay networks with a multi-antenna eavesdropper. By using null space beamforming to eliminate information leakage and sequential parametric convex approximation to solve the non-convex problem, the proposed method achieves significant performance improvements in secrecy rate, as demonstrated by simulations."
 date: 2015-02-13
 venue: 'IEEE Transactions on Wireless Communications'
 paperurl: 'https://people.ece.ubc.ca/wingn/papers/2014/Journal/Beamforming_p2p.pdf'
-thumbnail: '/images/0213.png'
 citation: 'Wang C, Wang H M, Ng D W K, et al. Joint beamforming and power allocation for secrecy in peer-to-peer relay networks[J]. IEEE Transactions on Wireless Communications, 2015, 14(6): 3280-3293.'
 ---
 <img src="/images/0213.png"  style="float: right; margin-left: 10px;">
