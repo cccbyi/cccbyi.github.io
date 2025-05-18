@@ -17,4 +17,4 @@ citation: 'Wang H M, Wang C, Ng D W K, et al. Artificial noise assisted secure t
 **Index Terms**: Physical layer security, distributed antenna systems, artificial noise, random matrix theory, non-convex optimization.
 
 
-<img src='/images/1025.png' style='float: right; margin: 5px;'>
+<img src='/images/0425.png' style='float: right; margin: 5px;'>
