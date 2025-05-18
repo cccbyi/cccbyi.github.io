@@ -3,11 +3,10 @@ title: "On the Secrecy Throughput Maximization for MISO Cognitive Radio Network 
 collection: publications
 category: manuscripts
 permalink: /publication/2014-09-08-paper-title-On the Secrecy Throughput Maximization for MISO Cognitive Radio Network in Slow Fading Channels.md
-excerpt: "The paper proposes two strategies to maximize the secrecy throughput of the primary user in a cognitive radio network by optimizing beamforming, rate parameters, and power allocation between the information signal and artificial noise of the secondary user, subject to secrecy outage and throughput constraints."
+excerpt: "<img src='/images/0908.png' style='float: right; margin: 5px;'>The paper proposes two strategies to maximize the secrecy throughput of the primary user in a cognitive radio network by optimizing beamforming, rate parameters, and power allocation between the information signal and artificial noise of the secondary user, subject to secrecy outage and throughput constraints."
 date: 2014-09-08
 venue: 'IEEE Transactions on Wireless Communications'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6894130'
-thumbnail: '/images/0908.png'
 citation: ' Wang C, Wang H M. On the secrecy throughput maximization for MISO cognitive radio network in slow fading channels[J]. IEEE Transactions on Information Forensics and Security, 2014, 9(11): 1814-1827.'
 ---
 <img src="/images/0908.png"  style="float: right; margin-left: 10px;">
