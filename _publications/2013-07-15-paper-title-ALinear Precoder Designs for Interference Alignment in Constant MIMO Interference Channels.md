@@ -3,11 +3,10 @@ title: "Linear Precoder Designs for Interference Alignment in Constant MIMO Inte
 collection: publications
 category: manuscripts
 permalink: /publication/2013-07-15-paper-title-ALinear Precoder Designs for Interference Alignment in Constant MIMO Interference Channels.md
-excerpt: "This paper proposes a novel one-sided algorithm for interference alignment (IA) in constant MIMO interference channels, using the steepest descent method to design linear precoders at transmitters only. The algorithm aims to minimize the spatial distance between different interference subspaces to achieve IA, avoiding the need for alternating between transmitters and receivers."
+excerpt: "<img src='/images/0715.png' style='float: right; margin: 5px;'>This paper proposes a novel one-sided algorithm for interference alignment (IA) in constant MIMO interference channels, using the steepest descent method to design linear precoders at transmitters only. The algorithm aims to minimize the spatial distance between different interference subspaces to achieve IA, avoiding the need for alternating between transmitters and receivers."
 date: 2013-07-15
 venue: 'Proceedings of IEEE International Conference on wireless communication and networking (WCNC2013)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6555140'
-thumbnail: '/images/0715.png'
 citation: 'Wang C, Zhang B, Zhang X, et al. Linear precoder designs for interference alignment in constant MIMO interference channels[C]//2013 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2013: 3573-3578.'
 ---
 <img src="/images/0715.png"  style="float: right; margin-left: 10px;">
