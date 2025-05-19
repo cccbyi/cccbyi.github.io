@@ -2,7 +2,7 @@
 title: "Physical Layer Security Enhancement Using Artificial Noise in Cellular Vehicle-to-Everything (C-V2X) Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-11-13-paper-title-Physical Layer Security Enhancement Using Artificial Noise in Cellular Vehicle-to-Everything (C-V2X) Networks.md
+permalink: /publication/2020-11-13-paper-title-Physical Layer Security Enhancement Using Artificial Noise in Cellular Vehicle-to-Everything (C-V2X) Networks
 excerpt: "<img src='/images/1113.png' style='float: right; margin: 5px;'>We investigates the physical layer security (PLS) of cellular vehicle-to-everything (C-V2X) networks using artificial noise (AN) and secure beamforming techniques. The authors build an analytical framework based on stochastic geometry to study the PLS of multi-antenna C-V2X networks. They derive closed-form expressions for coverage probability and secrecy probability and analyze the effective secrecy throughput to evaluate the network's security performance. Simulation results show that increasing the number of transmit antennas improves the robustness of the secure transmission strategy and that the optimal power allocation ratio between confidential information and AN remains relatively stable for different numbers of antennas."
 date: 2020-11-13
 venue: 'IEEE Transactions on Vehicular Technology'
