@@ -2,7 +2,7 @@
 title: "Covert Rate Optimization of Millimeter Wave Full-Duplex Communications"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-10-21-paper-title- Covert Rate Optimization of Millimeter Wave Full-Duplex Communications.md
+permalink: /publication/2021-10-21-paper-title- Covert Rate Optimization of Millimeter Wave Full-Duplex Communications
 excerpt: "<img src='/images/1021.png' style='float: right; margin: 5px;'>We investigates covert rate optimization for full-duplex millimeter wave communications. It proposes joint optimization frameworks for analog beamforming and jamming in both single and multiple data stream scenarios to maximize covert rate while satisfying detection error probability constraints, achieving significant performance gains. "
 date: 2021-10-21
 venue: 'IEEE Transactions on Wireless Communications'
