@@ -2,7 +2,7 @@
 title: "Optimal Joint Beamforming and Jamming Design for Secure and Covert URLLC"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-02-02-paper-title-Optimal Joint Beamforming and Jamming Design for Secure and Covert URLLC.md
+permalink: /publication/2022-02-02-paper-title-Optimal Joint Beamforming and Jamming Design for Secure and Covert URLLC
 excerpt: "<img src='/images/0202.png' style='float: right; margin: 5px;'>This paper proposes an optimal joint beamforming and jamming design for secure and covert ultra-reliable low-latency communication (URLLC) in a multiple-input single-output (MISO) downlink. The design aims to maximize the secrecy rate while satisfying covertness constraints, using a branch-reduce-and-bound (BRB) algorithm to solve the non-convex optimization problem."
 date: 2022-02-02
 venue: '2021 IEEE Global Communications Conference (GLOBECOM)'
