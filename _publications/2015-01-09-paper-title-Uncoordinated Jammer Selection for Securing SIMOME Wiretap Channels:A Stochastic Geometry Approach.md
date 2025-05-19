@@ -2,7 +2,7 @@
 title: "Uncoordinated Jammer Selection for Securing SIMOME Wiretap Channels:A Stochastic Geometry Approach "
 collection: publications
 category: manuscripts
-permalink: /publication/2015-01-09-paper-title-Uncoordinated Jammer Selection for Securing SIMOME Wiretap Channels:A Stochastic Geometry Approach.md
+permalink: /publication/2015-01-09-paper-title-Uncoordinated Jammer Selection for Securing SIMOME Wiretap Channels:A Stochastic Geometry Approach
 excerpt: "<img src='/images/0109.png' style='float: right; margin: 5px;'>The paper proposes an opportunistic jammer selection scheme for the SIMOME wiretap channel. It selects single-antenna jammers to transmit Gaussian jamming signals to confuse eavesdroppers without centralized coordination. The scheme optimizes the selection threshold to maximize secrecy throughput and ergodic secrecy rate, achieving significant performance gains over random jammer selection."
 date: 2015-01-09
 venue: 'IEEE Transactions on Wireless Communications'
