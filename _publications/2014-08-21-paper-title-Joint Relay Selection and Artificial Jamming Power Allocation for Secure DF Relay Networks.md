@@ -2,7 +2,7 @@
 title: "Joint Relay Selection and Artificial Jamming Power Allocation for Secure DF Relay Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2014-08-21-paper-title-Joint Relay Selection and Artificial Jamming Power Allocation for Secure DF Relay Networks.md
+permalink: /publication/2014-08-21-paper-title-Joint Relay Selection and Artificial Jamming Power Allocation for Secure DF Relay Networks
 excerpt: "<img src='/images/0821.png' style='float: right; margin: 5px;'>This paper proposes a joint relay selection and artificial jamming power allocation scheme for secure decode-and-forward (DF) relay networks. The authors aim to maximize the ergodic secrecy rate (ESR) by optimizing the power allocation between the confidential information and jamming signals, using only statistical channel state information (CSI) of the eavesdropper."
 date: 2014-08-21
 venue: 'IEEE ICC 2014'
