@@ -2,7 +2,7 @@
 title: "Hybrid Analog-Digital Precoder Design for Securing Cognitive Millimeter Wave Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-11-20-paper-title-Hybrid Analog-Digital Precoder Design for Securing Cognitive Millimeter Wave Networks.md
+permalink: /publication/2020-11-20-paper-title-Hybrid Analog-Digital Precoder Design for Securing Cognitive Millimeter Wave Networks
 excerpt: "<img src='/images/1120.png' style='float: right; margin: 5px;'>We investigates the hybrid secure precoder design for cognitive millimeter wave (mmWave) networks to enhance physical layer security. The authors aim to maximize the minimum secrecy rate of secondary users under constraints on interference power and quality of service. They formulate a non-convex optimization problem and propose a penalty dual decomposition (PDD) based iterative algorithm to solve it. Simulation results demonstrate the efficiency of the proposed algorithm in improving secrecy performance compared to traditional methods."
 date: 2020-11-20
 venue: 'IEEE Transactions on Information Forensics and Security'
