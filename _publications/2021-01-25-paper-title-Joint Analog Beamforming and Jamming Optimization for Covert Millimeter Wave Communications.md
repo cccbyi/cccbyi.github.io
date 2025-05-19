@@ -2,7 +2,7 @@
 title: "Joint Analog Beamforming and Jamming Optimization for Covert Millimeter Wave Communications"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-01-25-paper-title-Joint Analog Beamforming and Jamming Optimization for Covert Millimeter Wave Communications.md
+permalink: /publication/2021-01-25-paper-title-Joint Analog Beamforming and Jamming Optimization for Covert Millimeter Wave Communications
 excerpt: "<img src='/images/0125.png' style='float: right; margin: 5px;'>This paper investigates covert millimeter-wave (mmWave) communications, where a multi-antenna transmitter (Alice) sends information covertly to a full-duplex receiver (Bob) in the presence of a warden (Willie). The authors jointly optimize the analog beamforming at Alice and Bob to maximize the covert rate while satisfying covertness and communication outage constraints."
 date: 2021-01-25
 venue: 'GLOBECOM 2020 - 2020 IEEE Global Communications Conference'
