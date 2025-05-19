@@ -2,7 +2,7 @@
 title: "Robust Hybrid Precoding Design for Securing Millimeter Wave IoT Networks Under Secrecy Outage Constraint"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-03-08-paper-title-Robust Hybrid Precoding Design for Securing Millimeter Wave IoT Networks Under Secrecy Outage Constraint.md
+permalink: /publication/2021-03-08-paper-title-Robust Hybrid Precoding Design for Securing Millimeter Wave IoT Networks Under Secrecy Outage Constraint
 excerpt: "<img src='/images/0308.png' style='float: right; margin: 5px;'>The paper proposes a robust hybrid precoding scheme for securing mmWave IoT networks under secrecy outage constraints. It maximizes the minimum secrecy rate among IoT devices by jointly optimizing analog and digital precoders using the PDD method, achieving significant performance gains."
 date: 2021-03-08
 venue: 'IEEE Internet of Things Journal'
