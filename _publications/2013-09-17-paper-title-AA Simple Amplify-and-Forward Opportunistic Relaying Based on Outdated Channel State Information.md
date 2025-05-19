@@ -2,7 +2,7 @@
 title: "A Simple Amplify-and-Forward Opportunistic Relaying Based on Outdated Channel State Information"
 collection: publications
 category: manuscripts
-permalink: /publication/2013-09-17-paper-title-AA Simple Amplify-and-Forward Opportunistic Relaying Based on Outdated Channel State Information.md
+permalink: /publication/2013-09-17-paper-title-AA Simple Amplify-and-Forward Opportunistic Relaying Based on Outdated Channel State Information
 excerpt: "<img src='/images/0917.png' style='float: right; margin: 5px;'>This research proposes a novel relay selection strategy for amplify-and-forward cooperative networks with outdated channel state information (CSI). By combining outdated and statistical CSI, the strategy optimizes symbol error probability (SEP) and outage probability at high SNR, achieving better performance than traditional methods in asymmetrical networks."
 date: 2013-09-17
 venue: 'Sci China Inf Sci'
