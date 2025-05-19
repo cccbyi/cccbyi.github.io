@@ -2,7 +2,7 @@
 title: "Hybrid Precoding for IRS-assisted Secure mmWave Communication System with SWIPT"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-04-22-paper-title-Hybrid Precoding for IRS-assisted Secure mmWave Communication System with SWIPT.md
+permalink: /publication/2021-04-22-paper-title-Hybrid Precoding for IRS-assisted Secure mmWave Communication System with SWIPT
 excerpt: "<img src='/images/0422.png' style='float: right; margin: 5px;'>This paper investigates the hybrid precoding design for an intelligent reflecting surface (IRS)-assisted mmWave communication system with simultaneous wireless information and power transfer (SWIPT). The authors propose a joint optimization of the hybrid precoders and the phase shifts of the IRS to maximize the secrecy rate while satisfying energy harvesting and power constraints."
 date: 2021-04-22
 venue: '2020 International Conference on Space-Air-Ground Computing (SAGC)'
