@@ -2,7 +2,7 @@
 title: "CVCA:A Complex-valued Classifiable Autoencoder for MmWave Massive MIMO Physical Layer Authentication"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-08-29-paper-title-CVCA:A Complex-valued Classifiable Autoencoder for MmWave Massive MIMO Physical Layer Authentication.md
+permalink: /publication/2023-08-29-paper-title-CVCA:A Complex-valued Classifiable Autoencoder for MmWave Massive MIMO Physical Layer Authentication
 excerpt: "<img src='/images/0829.png' style='float: right; margin: 5px;'>We proposes a deep learning-based PLA method for mmWave communications, using the spatiotemporal characteristics of mmWave channels as fingerprints to detect clone attacks and classify legitimate nodes via a novel complex-valued classifiable autoencoder and LSTM module, outperforming existing approaches."
 date: 2023-08-29
 venue: '2023 IEEE Conf. on Computer Communications Workshops (INFOCOM Workshops)'
