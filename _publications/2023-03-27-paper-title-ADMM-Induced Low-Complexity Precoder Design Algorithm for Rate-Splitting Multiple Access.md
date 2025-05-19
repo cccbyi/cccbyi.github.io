@@ -18,4 +18,4 @@ citation: 'Li G, Wang C, Zhang H. ADMM-Induced Low-Complexity Precoder Design Al
 **Index Terms**: weighted minimum mean square error, non convex optimization, low-complexity design, alternating direction method of multipliers
 
 
-<img src='/images/0327.png' style='float: right; margin: 5px;'>
+<img src='/images/0327.png' style='float: right; margin: 5px;' width='210px'>
