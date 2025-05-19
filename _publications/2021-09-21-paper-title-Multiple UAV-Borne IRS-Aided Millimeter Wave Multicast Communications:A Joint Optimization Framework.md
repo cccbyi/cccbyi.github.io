@@ -2,7 +2,7 @@
 title: "Multiple UAV-Borne IRS-Aided Millimeter Wave Multicast Communications:A Joint Optimization Framework"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-09-21-paper-title-Multiple UAV-Borne IRS-Aided Millimeter Wave Multicast Communications:A Joint Optimization Framework.md
+permalink: /publication/2021-09-21-paper-title-Multiple UAV-Borne IRS-Aided Millimeter Wave Multicast Communications:A Joint Optimization Framework
 excerpt: "<img src='/images/0921.png' style='float: right; margin: 5px;'>We design a resource allocation algorithm for UAV-borne IRS-aided mmWave multicast communications, jointly optimizing UAV placement, beamforming at the BS, and passive beamforming at the IRSs to maximize the minimum rate of user clusters."
 date: 2021-09-21
 venue: 'IEEE Transactions on Wireless Communications'
