@@ -2,7 +2,7 @@
 title: "Artificial Noise Assisted Secure Transmission for Distributed Antenna System"
 collection: publications
 category: manuscripts
-permalink: /publication/2016-04-25-paper-title-Artificial Noise Assisted Secure Transmission for Distributed Antenna System.md
+permalink: /publication/2016-04-25-paper-title-Artificial Noise Assisted Secure Transmission for Distributed Antenna System
 excerpt: "<img src='/images/0425.png' style='float: right; margin: 5px;'>The paper proposes a distributed artificial noise scheme for enhancing security in distributed antenna systems (DAS) by optimizing power allocation to maximize the ergodic secrecy rate (ESR) using large-scale CSI."
 date: 2016-04-25
 venue: 'IEEE Transactions on Wireless Communications'
