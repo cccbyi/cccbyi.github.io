@@ -3,7 +3,7 @@ title: "STAR-RIS-Enabled Secure Dual-Functional Radar-Communications:Joint Wavef
 collection: publications
 category: manuscripts
 permalink: /publication/2023-07-20-paper-title-STAR-RIS-Enabled Secure Dual-Functional Radar-Communications:Joint Waveform and Reflective Beamforming Optimization.md
-excerpt: "<img src='/images/0720.png' style='float: right; margin: 5px;'>We proposes a symbol-level precoding-based scheme for STAR-RIS-aided dual-functional radar-communications (DFRC) systems. The aim is to securely transmit confidential information and perform target sensing concurrently. A joint optimization problem is formulated to maximize the average received radar sensing power, subject to constraints on communication users' quality-of-service and security, as well as practical waveform design restrictions."
+excerpt: "<img src='/images/0721.png' style='float: right; margin: 5px;'>We proposes a symbol-level precoding-based scheme for STAR-RIS-aided dual-functional radar-communications (DFRC) systems. The aim is to securely transmit confidential information and perform target sensing concurrently. A joint optimization problem is formulated to maximize the average received radar sensing power, subject to constraints on communication users' quality-of-service and security, as well as practical waveform design restrictions."
 date: 2023-07-20
 venue: 'IEEE Transactions on Information Forensics and Security'
 paperurl: 'https://discovery.ucl.ac.uk/id/eprint/10174379/1/STARRIS-ISAC.pdf'
@@ -18,4 +18,4 @@ citation: 'Wang C, Wang C C, Li Z, et al. STAR-RIS-enabled secure dual-functiona
 **Index Terms**:  STAR-RIS, dual-functional，radar-communication, symbol-level precoding, distance-majorization.
 
 
-<img src='/images/0720.png' style='float: right; margin: 5px;'>
+<img src='/images/0721.png' style='float: right; margin: 5px;'>
