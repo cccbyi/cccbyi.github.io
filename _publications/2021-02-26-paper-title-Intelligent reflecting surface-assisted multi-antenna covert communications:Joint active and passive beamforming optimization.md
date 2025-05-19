@@ -2,7 +2,7 @@
 title: "Intelligent reflecting surface-assisted multi-antenna covert communications:Joint active and passive beamforming optimization"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-02-26-paper-title-Intelligent reflecting surface-assisted multi-antenna covert communications:Joint active and passive beamforming optimization.md
+permalink: /publication/2021-02-26-paper-title-Intelligent reflecting surface-assisted multi-antenna covert communications:Joint active and passive beamforming optimization
 excerpt: "<img src='/images/0226.png' style='float: right; margin: 5px;'>We investigates the joint active and passive beamforming optimization for intelligent reflecting surface (IRS)-assisted multi-antenna covert communications to maximize the covert rate while satisfying detection error probability and outage constraints. "
 date: 2021-02-26
 venue: 'IEEE Transactions on Communications'
