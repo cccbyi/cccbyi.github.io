@@ -2,7 +2,7 @@
 title: "Two Novel Iterative Algorithms for Interference Alignment with Symbol Extensions in the MIMO Interference Channel"
 collection: publications
 category: manuscripts
-permalink: /publication/2013-06-20-paper-title-Two Novel Iterative Algorithms for Interference Alignment with Symbol Extensions in the MIMO Interference Channel.md
+permalink: /publication/2013-06-20-paper-title-Two Novel Iterative Algorithms for Interference Alignment with Symbol Extensions in the MIMO Interference Channel
 excerpt: "<img src='/images/0620.png' style='float: right; margin: 5px;'>This paper proposes two novel iterative algorithms for interference alignment (IA) with symbol extensions in the K-user multiple-input multiple-output (MIMO) interference channel. The first algorithm minimizes the maximum per-user mean square error (MSE) while preserving the dimensionality of the desired signal, using a rank-constrained MSE minimization approach. The second algorithm maximizes each receiver’s signal-to-interference-plus-noise ratio (SINR) while preserving the dimensionality of the desired signal, utilizing the reciprocity of wireless channels."
 date: 2013-06-20
 venue: 'Proceedings of 2012 IEEE International Conference on Wireless Communications and Signal Processing (WCSP2012)'
