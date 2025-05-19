@@ -2,7 +2,7 @@
 title: "Wireless covert communications aided by distributed cooperative jamming over slow fading channels"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-05-26-paper-title-Wireless covert communications aided by distributed cooperative jamming over slow fading channels.md
+permalink: /publication/2021-05-26-paper-title-Wireless covert communications aided by distributed cooperative jamming over slow fading channels
 excerpt: "<img src='/images/0526.png' style='float: right; margin: 5px;'>We investigates wireless covert communications aided by distributed cooperative jamming over slow fading channels. It proposes an uncoordinated jammer selection scheme where friendly nodes with low channel gains to the receiver are chosen as jammers to confuse the warden. The optimal selection threshold and transmission rate are jointly designed to maximize covert throughput under a covertness constraint. Results show that the multi-jammer scheme outperforms single-jammer methods and that the covert throughput improves significantly with more cooperative nodes, demonstrating the effectiveness of the proposed scheme."
 date: 2021-05-26
 venue: 'IEEE Transactions on Wireless Communications'
