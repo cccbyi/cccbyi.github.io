@@ -2,7 +2,7 @@
 title: "Physical Layer Security of Vehicular Networks:A Stochastic Geometry Approach"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-07-21-paper-title-Physical Layer Security of Vehicular Networks:A Stochastic Geometry Approach.md
+permalink: /publication/2020-07-21-paper-title-Physical Layer Security of Vehicular Networks:A Stochastic Geometry Approach
 excerpt: "<img src='/images/0721.png' style='float: right; margin: 5px;'>This paper proposes an analytical framework for studying the physical layer security (PLS) of vehicular networks using stochastic geometry. The spatial distribution of vehicles is modeled by Cox processes driven by a Poisson line process (PLP). The authors derive the coverage probability and secrecy probability to evaluate the effective secrecy throughput under a maximum signal-to-interference-ratio (SIR) association scheme."
 date: 2020-07-21
 venue: '2020 IEEE International Conference on Communications Workshops (ICC Workshops)'
