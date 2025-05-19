@@ -2,7 +2,7 @@
 title: "Hybrid Opportunistic Relaying and Jamming With Power Allocation for Secure Cooperative Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2014-09-04-paper-title-Hybrid Opportunistic Relaying and Jamming With Power Allocation for Secure Cooperative Networks.md
+permalink: /publication/2014-09-04-paper-title-Hybrid Opportunistic Relaying and Jamming With Power Allocation for Secure Cooperative Networks
 excerpt: "<img src='/images/0904.png' style='float: right; margin: 5px;'>We proposes a hybrid opportunistic relaying and jamming scheme with power allocation to enhance security in cooperative networks. The study optimizes power allocation to maximize the ergodic secrecy rate (ESR) and analyzes the impact of outdated CSI and multiple eavesdroppers on the proposed scheme."
 date: 2014-09-04
 venue: 'IEEE Transactions on Wireless Communications'
