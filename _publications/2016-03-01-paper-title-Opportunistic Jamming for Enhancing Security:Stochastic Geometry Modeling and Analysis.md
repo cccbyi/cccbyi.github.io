@@ -2,7 +2,7 @@
 title: "Opportunistic Jamming for Enhancing Security:Stochastic Geometry Modeling and Analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2016-03-01-paper-title-Opportunistic Jamming for Enhancing Security:Stochastic Geometry Modeling and Analysis.md
+permalink: /publication/2016-03-01-paper-title-Opportunistic Jamming for Enhancing Security:Stochastic Geometry Modeling and Analysis
 excerpt: "<img src='/images/0301.png' style='float: right; margin: 5px;'>We proposes an opportunistic jammer selection scheme for enhancing security in a single-input–single-output multieavesdropper (SISOME) channel using stochastic geometry modeling and analysis. The scheme selects jammers based on their channel gains to the legitimate receiver, allowing them to transmit independent Gaussian jamming signals to confuse eavesdroppers. The authors derive the secrecy throughput and prove it is a quasi-concave function of the selection threshold, enabling efficient optimization. Simulation results demonstrate significant improvements in secrecy performance compared to random jammer selection schemes."
 date: 2016-03-01
 venue: 'IEEE Transactions on Vehicular Technology'
