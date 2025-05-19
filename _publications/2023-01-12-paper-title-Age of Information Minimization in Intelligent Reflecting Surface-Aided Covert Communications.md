@@ -2,7 +2,7 @@
 title: "Age of Information Minimization in Intelligent Reflecting Surface-Aided Covert Communications"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-12-paper-title-Age of Information Minimization in Intelligent Reflecting Surface-Aided Covert Communications.md
+permalink: /publication/2023-01-12-paper-title-Age of Information Minimization in Intelligent Reflecting Surface-Aided Covert Communications
 excerpt: "<img src='/images/0112.png' style='float: right; margin: 5px;'>This paper investigates the minimization of covert information age in intelligent reflecting surface (IRS)-aided covert communications, jointly optimizing active/passive beamforming and blocklength under covertness and AoI constraints."
 date: 2023-01-12
 venue: '2022 IEEE Globecom Workshops (GC Wkshps)'
