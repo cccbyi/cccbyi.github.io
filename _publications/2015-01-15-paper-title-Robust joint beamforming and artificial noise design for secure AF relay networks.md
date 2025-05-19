@@ -2,7 +2,7 @@
 title: "Robust joint beamforming and artificial noise design for secure AF relay networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-01-15-paper-title-Robust joint beamforming and artificial noise design for secure AF relay networks.md
+permalink: /publication/2015-01-15-paper-title-Robust joint beamforming and artificial noise design for secure AF relay networks
 excerpt: "<img src='/images/0115.png' style='float: right; margin: 5px;'>This paper proposes a robust joint design of distributed beamforming and artificial noise for secure amplify-and-forward (AF) relay networks in the presence of multiple multi-antenna eavesdroppers. The authors aim to maximize the worst-case secrecy rate under the total power constraint of all relay nodes, using semidefinite relaxation (SDR) and a one-dimensional search involving semidefinite programming (SDP)."
 date: 2015-01-15
 venue: 'IEEE ICCC 2014'
