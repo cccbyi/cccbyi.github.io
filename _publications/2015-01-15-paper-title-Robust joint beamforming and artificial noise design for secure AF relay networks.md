@@ -15,4 +15,6 @@ citation: 'Wang C, Wang H M. Robust joint beamforming and artificial noise desig
 **Abstract**: This letter studies the secure cooperative transmission for an amplify-and-forward (AF) relay network in the presence of multiple multi-antenna eavesdroppers. Since the perfect channel state information (CSI) of the eavesdroppers are not available, we propose a robust joint distributed beamforming and artificial noise scheme to maximize the worst-case secrecy rate of the network, under the total power constraint of all the relay nodes. With the semidefinite relaxation (SDR) technique, the design can be solved by a one-dimension search which involves a sequence of semidefinite programming (SDP). Simulation results demonstrate the validity of the proposed strategy.
 
 
-<img src='/images/0115.png' style='float: right; margin: 5px;'>
+<img src='/images/RJB.png' width = '600px'>
+
+<img src='/images/RJB1.png' width = '600px'>
