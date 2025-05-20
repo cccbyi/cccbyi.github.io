@@ -18,4 +18,6 @@ citation: 'Wang C, Wang H M, Xia X G, et al. Uncoordinated jammer selection for 
 **Index Terms**: SIMOME wiretap channel, opportunistic jam mers selection, secrecy throughput, ergodic secrecy rate.
 
 
-<img src='/images/0109.png' style='float: right; margin: 5px;'>
+<img src='/images/UJS.png' width = '600px'>
+
+<img src='/images/UJS1.png' width = '600px'>
