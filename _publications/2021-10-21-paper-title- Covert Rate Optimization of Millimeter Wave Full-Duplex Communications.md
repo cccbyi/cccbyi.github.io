@@ -18,4 +18,6 @@ citation: 'Wang C, Li Z, Ng D W K. Covert rate optimization of millimeter wave f
 **Index Terms**: Millimeter wave communication, full duplex, covert rate, analog beamforming, hybrid precoding.
 
 
-<img src='/images/1021.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/CRO.png' width = "600">
+
+<br/><img src='/images/CRO1.png' width = "600">
