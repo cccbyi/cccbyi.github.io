@@ -18,4 +18,4 @@ citation: 'Wang C, Wang H M, Ng D W K, et al. Joint beamforming and power alloca
 **Index Terms**: Multiuser peer-to-peer relay network, secrecy rate maximization, sequential parametric convex approximation, feasible initial points searching algorithm.
 
 
-<img src='/images/0213.png' style='float: right; margin: 5px;'>
+<img src='/images/JBA.png' width = '600px'>
