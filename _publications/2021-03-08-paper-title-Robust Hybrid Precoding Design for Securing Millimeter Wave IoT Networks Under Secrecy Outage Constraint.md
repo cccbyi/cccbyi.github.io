@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0b61a629-f0b8-4431-81cf-797ad54e2d69)---
+---
 title: "Robust Hybrid Precoding Design for Securing Millimeter Wave IoT Networks Under Secrecy Outage Constraint"
 collection: publications
 category: manuscripts
