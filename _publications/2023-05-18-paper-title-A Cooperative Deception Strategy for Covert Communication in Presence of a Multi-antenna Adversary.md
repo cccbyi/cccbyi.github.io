@@ -17,4 +17,7 @@ citation: 'Si, J., Liu, Z., Li, Z., Hu, H., Guan, L., Wang, C., & Al-Dhahir, N..
 
 **Index Terms**:  Cooperative deception, covert transmission, CSI, multi-antenna adversary, power allocation
 
-<img src='/images/0518.png' style='float: right; margin: 5px;'>
+
+<br/><img src='/images/ACD1.png' width = "600">
+
+<br/><img src='/images/ACD2.png' width = "600">
