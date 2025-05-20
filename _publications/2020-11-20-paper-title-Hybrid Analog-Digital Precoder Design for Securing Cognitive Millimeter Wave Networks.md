@@ -17,4 +17,4 @@ citation: 'Kong Z, Song J, Wang C, et al. Hybrid analog-digital precoder design 
 **Index Terms**: Millimeter wave, cognitive radio, physical layer security, hybrid precoder, penalty dual decomposition.
 
 
-<img src='/images/1120.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/HAD.png' width = "600">
