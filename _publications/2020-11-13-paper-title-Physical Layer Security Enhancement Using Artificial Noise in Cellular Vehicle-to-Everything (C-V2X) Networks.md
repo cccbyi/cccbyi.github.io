@@ -18,4 +18,4 @@ citation: 'Wang C, Li Z, Xia X G, et al. Physical layer security enhancement usi
 **Index Terms**: Vehicle-to-everything, physical layer security, secrecy beamforming, artificial noise, stochastic geometry.
 
 
-<img src='/images/1113.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/PLS.png' width = "600">
