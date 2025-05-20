@@ -18,4 +18,4 @@ citation: 'Zeng X, Wang C, Wang C C, et al. CVCA: A Complex-Valued Classifiable 
 **Index Terms**: mmWave communications, clone attacks, phys ical layer authentication, complex-valued LSTM, channel-based authentication.
 
 
-<img src='/images/0829.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/CVCA.png' width = "600">
