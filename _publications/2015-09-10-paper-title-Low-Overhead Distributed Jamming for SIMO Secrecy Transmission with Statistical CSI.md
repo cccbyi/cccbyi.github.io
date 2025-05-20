@@ -17,4 +17,4 @@ citation: 'Wang C, Wang H M, Wang B. Low-overhead distributed jamming for SIMO s
 **Index Terms**: Cooperative jamming, ergodic secrecy rate, geometric programming, physical layer security.
 
 
-<img src='/images/0910.png'  style='float: right; margin: 5px;'>
+<br/><img src='/images/LOD.png' width = "600">
