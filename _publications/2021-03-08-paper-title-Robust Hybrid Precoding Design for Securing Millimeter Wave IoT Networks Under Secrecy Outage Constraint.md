@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/0b61a629-f0b8-4431-81cf-797ad54e2d69)---
 title: "Robust Hybrid Precoding Design for Securing Millimeter Wave IoT Networks Under Secrecy Outage Constraint"
 collection: publications
 category: manuscripts
@@ -18,4 +18,4 @@ citation: 'Wang C, Li Z, Zheng T X, et al. Robust hybrid precoding design for se
 **Index Terms**: Broadcast communications, hybrid precoding, Internet of Things (IoT), penalty dual decomposition (PDD), physical layer security (PLS).
 
 
-<img src='/images/0308.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/RHP.png' width = "600">
