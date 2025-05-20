@@ -18,4 +18,6 @@ citation: 'Wang C, Li Z, Shi J, et al. Intelligent reflecting surface-assisted m
 **Index Terms**: Intelligent reflecting surface, covert commu nications, full-duplex, penalty dual decomposition, detection probability.
 
 
-<img src='/images/0226.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/02261.png' width = "600">
+
+<br/><img src='/images/02262.png' width = "600">
