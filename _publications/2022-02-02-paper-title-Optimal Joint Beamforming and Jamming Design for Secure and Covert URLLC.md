@@ -15,4 +15,7 @@ citation: 'Wang C, Li Z, Ng D W K. Optimal joint beamforming and jamming design 
 **Abstract**: This paper considers the physical layer security (PLS) and covertness of the signal transmission in a multiple-input single-output downlink adopting ultra-high reliability and low latency communication (URLLC). In the considered system, Alice transmits confidential signals to Bob in the presence of a multi-antenna eavesdropper (Eve) and a multi-antenna watchful adversary (Willie). Although artificial noise (AN) is a common PLS technique for protecting the confidential signal from wiretapping, it may reduce the communication covertness due to the additional signal emission. For maximizing the achievable secrecy rate, we propose an AN-aided secure and covert communication strategy through optimizing the information carrying beamformer and AN jointly subject to the covertness constraint. To tackle the formulated non-convex design problem, we propose a branch-reduce-and-bound (BRB)-based algorithm to solve the considered problem globally. Simulation results validate its efficiency compared with a benchmark algorithm and unveil the importance of exploiting AN.
 
 
-<img src='/images/0202.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/OJB.png' width = "600">
+
+
+<br/><img src='/images/OJB2.png' width = "600">
