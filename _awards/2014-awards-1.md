@@ -1,10 +1,11 @@
 ---
 title: "IEEE/CIC International Conference on Communications in China (ICCC) Best Paper Award(2014)"
-excerpt: ""
-collection: Awards
+collection: teaching
+type: "Undergraduate course"
 permalink: /awards/2014-awards-1
-date: 2014
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-
-IEEE/CIC International Conference on Communications in China (ICCC) Best Paper Award(2014): 
+This is a description of a teaching experience. You can use markdown like any other post.
