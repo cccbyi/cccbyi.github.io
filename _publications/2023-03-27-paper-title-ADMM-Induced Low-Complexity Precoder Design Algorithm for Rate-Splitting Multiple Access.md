@@ -3,7 +3,7 @@ title: "ADMM-Induced Low-Complexity Precoder Design Algorithm for Rate-Splitting
 collection: publications
 category: manuscripts
 permalink: /publication/2023-03-27-paper-title-ADMM-Induced Low-Complexity Precoder Design Algorithm for Rate-Splitting Multiple Access
-excerpt: "<img src='/images/0327.png' style='float: right; margin: 5px;' width='400px'>We proposes an ADMM-induced iterative algorithm to optimize the precoder for rate-splitting multiple access (RSMA) in multi-antenna downlink systems. The algorithm transforms the non-convex problem into convex subproblems using WMMSE and solves them in closed form with ADMM, achieving faster convergence and lower complexity than existing methods."
+excerpt: "<img src='/images/0327.png' style='float: right; margin: 5px;' width='300px'>We proposes an ADMM-induced iterative algorithm to optimize the precoder for rate-splitting multiple access (RSMA) in multi-antenna downlink systems. The algorithm transforms the non-convex problem into convex subproblems using WMMSE and solves them in closed form with ADMM, achieving faster convergence and lower complexity than existing methods."
 date: 2023-03-27
 venue: '2022 IEEE 22nd International Conference on Communication Technology (ICCT)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10073091'
