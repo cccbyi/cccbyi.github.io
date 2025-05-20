@@ -3,7 +3,7 @@ title: " Low-Overhead Distributed Jamming for SIMO Secrecy Transmission with Sta
 collection: publications
 category: manuscripts
 permalink: /publication/2015-09-10-paper-title-Low-Overhead Distributed Jamming for SIMO Secrecy Transmission with Statistical CSI
-excerpt: "<img src='/images/0910.png'  style='float: right; margin: 5px;'>The paper proposes a low-overhead distributed jamming strategy to enhance SIMO secrecy transmission, optimizing jamming power based on statistical CSI for better physical layer security in massive MIMO systems."
+excerpt: "<img src='/images/0910.png'  style='float: right; margin: 5px;' width='300px'>The paper proposes a low-overhead distributed jamming strategy to enhance SIMO secrecy transmission, optimizing jamming power based on statistical CSI for better physical layer security in massive MIMO systems."
 date: 2015-09-10
 venue: 'IEEE Signal Processing Letters'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7254134'
