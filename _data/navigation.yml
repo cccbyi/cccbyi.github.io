@@ -7,7 +7,7 @@ main:
     url: /submitted/
 
   - title: "Awards"
-    url: /_awards/
+    url: /awards/
 
   - title: "Models"
     url: /models/
