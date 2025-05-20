@@ -46,4 +46,6 @@ munication, branch-reduce-and-bound, penalty successive convex
  approximation.
 
 
- <img src='/images/0323.jpg' style='float: right; margin: 5px;'>
+<br/><img src='/images/ACA.png' width = "600">
+
+<br/><img src='/images/ACA2.png' width = "600">
