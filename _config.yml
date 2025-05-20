@@ -247,10 +247,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _models
   - scope:
       path: ""
-      type: teaching
+      type: models
     values:
       layout: single
       author_profile: true
@@ -268,7 +268,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: awards
     values:
       layout: single
       author_profile: true
@@ -277,11 +277,12 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: submitted
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 
 # Sass/SCSS
