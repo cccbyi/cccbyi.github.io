@@ -16,4 +16,4 @@ citation: 'Wang C, Wang H M. Joint relay selection and artificial jamming power 
 
 
 
-<img src='/images/0821.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/JRS.png' width = "600">
