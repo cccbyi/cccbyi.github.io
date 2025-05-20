@@ -18,4 +18,6 @@ citation: 'Wang H M, Wang C, Ng D W K. Artificial noise assisted secure transmis
 **Index Terms**: Physical layer security, MIMOME wiretap chan nels, artificial noise, power allocation, training, feedback, ergodic secrecy rate
 
 
-<img src='/images/0805.png' style='float: right; margin: 5px;'>
+<img src='/images/08051.png' width = '600px'>
+
+<img src='/images/08052.png' width = '600px'>
