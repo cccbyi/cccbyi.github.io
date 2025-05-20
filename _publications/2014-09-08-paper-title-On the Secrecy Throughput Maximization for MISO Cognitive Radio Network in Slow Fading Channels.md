@@ -18,4 +18,8 @@ citation: ' Wang C, Wang H M. On the secrecy throughput maximization for MISO co
 **Index Terms**: Cognitive radio, physical layer security, artificial noise, secrecy throughput, secrecy outage, power allocation.
 
 
-<img src='/images/0908.png' style='float: right; margin: 5px;'>
+<img src='/images/OTS.png' width = '600px'>
+
+<img src='/images/OTS1.png' width = '600px'>
+
+
