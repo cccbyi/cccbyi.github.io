@@ -18,4 +18,6 @@ citation: 'Guo K, Wang C, Li Z, et al. Multiple UAV-borne IRS-aided millimeter w
 **Index Terms**: Intelligent reflecting surface, millimeter wave communication, multicast communications, particle swarm optimization.
 
 
-<img src='/images/0921.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/MUI.png' width = "600">
+
+<br/><img src='/images/MUI1.png' width = "600">
