@@ -17,4 +17,6 @@ citation: 'Wang C, Wang H M. Physical layer security in millimeter wave cellular
 **Index Terms**: Millimeter wave network, physical layer security, stochastic geometry, Poisson point process, artificial noise
 
 
-<img src='/images/0503.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/PLSI.png' width = "600">
+
+<br/><img src='/images/PLSI1.png' width = "600">
