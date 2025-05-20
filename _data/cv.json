@@ -124,20 +124,30 @@
       "description": ""
     }
   ],
-  "teaching": [
+   "teaching": [
     {
       "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
       "institution": "University 1, Department",
       "date": "2015-01-01",
       "role": "Workshop",
       "description": ""
+    },
+    {
+      "course": "Teaching experience 1",
+      "institution": "University 1, Department",
+      "date": "2015-01-01",
+      "role": "Workshop",
+      "description": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "awards 1",
+      "excerpt": ""
+    },
+    {
+      "title": "awards 2",
+      "excerpt": "
     }
   ],
   "portfolio": [
