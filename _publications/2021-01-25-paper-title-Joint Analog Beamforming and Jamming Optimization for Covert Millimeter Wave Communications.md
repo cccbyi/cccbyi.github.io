@@ -16,4 +16,4 @@ citation: 'Wang C, Li Z, Ng D W K. Joint analog beamforming and jamming optimiza
 
 
 
-<img src='/images/0125.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/JAB.png' width = "600">
