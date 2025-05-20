@@ -17,4 +17,5 @@ citation: 'Xue J, Zhou X, Wang C, et al. Hybrid precoding for IRS-assisted secur
 
 **Index Terms**: Intelligent reflecting surfaces, hybrid precoding, secure transmission, power transfer.
 
-<img src='/images/0422.png' style='float: right; margin: 5px;'>
+
+<br/><img src='/images/HPF.png' width = "600">
