@@ -212,22 +212,31 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
+# Collections
 collections:
-  awards:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
   submitted:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/ 
   models:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/ 
 
-
-# These settings control how pages and collections are included in the site
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -247,10 +256,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _models
+  # _teaching
   - scope:
       path: ""
-      type: models
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -265,16 +274,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: awards
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
+  # _submitted papers
   - scope:
       path: ""
       type: submitted
@@ -283,6 +283,41 @@ defaults:
       author_profile: true
       share: true
       comment: true
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _award
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  - scope:
+      path: ""
+      type: models
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true   
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
