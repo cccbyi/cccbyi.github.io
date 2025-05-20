@@ -15,4 +15,7 @@ citation: 'Wang C, Li Z, Zhao Y, et al. Age of Information Minimization in Intel
 **Abstract**: In this work, we investigate the covert information freshness in intelligent reflecting surface (IRS)-aided multi an tenna communications, where a public full-duplex user (Alice) and a private full-duplex user (Bob) exchange information in the presence of a watchful warden (Willie). Specifically, the covert transmission from Bob to Alice is shielded from Willie under the mask of Alice’s undisguised signal transmission. To minimize the covert information age, we exploit the channel statistics to jointly design the active beamforming at Alice and Bob, the passive beamforming at the IRS, and the blocklength of the confidential data packet under the constraints of the maximum tolerable age of information (AoI) at Bob and communication covertness. Although the considered joint optimization problem is nonconvex, we employ the successive convex approximation to design an iterative algorithm to obtain an efficient suboptimal solution. Numerical results demonstrate the superiority of our proposed joint optimization algorithm and further show that the enhanced covert channel quality can reduce the required blocklength to improve information freshness.
 
 
-<img src='/images/0112.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/AOI.png' width = "600">
+
+<br/><img src='/images/AOI2.png' width = "600">
+
