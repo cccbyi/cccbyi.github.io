@@ -18,4 +18,4 @@ citation: ' Wang C, Wang H M. Robust joint beamforming and jamming for secure AF
 **Index Terms**: Cooperative beamforming (CB), inner convex approxi mation (ICA), jamming, secrecy rate, semidefinite relaxation (SDR).
 
 
-<img src='/images/0702.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/RJB.png' width = "600">
