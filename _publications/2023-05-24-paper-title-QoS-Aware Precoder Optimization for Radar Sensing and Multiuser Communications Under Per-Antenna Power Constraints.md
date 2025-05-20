@@ -18,4 +18,6 @@ citation: 'Wang C, Li Z, Al-Dhahir N, et al. QoS-aware precoder optimization for
 **Index Terms**: Dual-functional radar-communication, radar sensing, transmit precoding, signal-independent interference,signal-dependent clutter
 
 
-<img src='/images/0524.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/QOS1.png' width = "600">
+
+<br/><img src='/images/QOS2.png' width = "600">
