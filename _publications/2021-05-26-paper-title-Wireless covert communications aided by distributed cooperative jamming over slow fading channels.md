@@ -18,4 +18,4 @@ citation: 'Zheng T X, Yang Z, Wang C, et al. Wireless covert communications aide
 **Index Terms**: Covert communications, cooperative jamming, jammer selection, outage probability, covert throughput.
 
 
-<img src='/images/0526.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/WCC.png' width = "600">
