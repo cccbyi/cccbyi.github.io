@@ -20,4 +20,4 @@ citation: ''
 **Index Terms**: Decode and forward, opportunistic relaying, extreme order statistics, ergodic secrecy rate, power allocation, sequential parametric convex approximation, outdated CSIs.
 
 
-<img src='/images/0904.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/HOR.png' width = "600">
