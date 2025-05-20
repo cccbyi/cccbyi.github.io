@@ -3,7 +3,7 @@ title: "On the Secrecy Throughput Maximization for MISO Cognitive Radio Network 
 collection: publications
 category: manuscripts
 permalink: /publication/2014-09-08-paper-title-On the Secrecy Throughput Maximization for MISO Cognitive Radio Network in Slow Fading Channels
-excerpt: "<img src='/images/0908.png' style='float: right; margin: 5px;'>The paper proposes two strategies to maximize the secrecy throughput of the primary user in a cognitive radio network by optimizing beamforming, rate parameters, and power allocation between the information signal and artificial noise of the secondary user, subject to secrecy outage and throughput constraints."
+excerpt: "<img src='/images/0908.png' style='float: right; margin: 5px;' width='300px'>The paper proposes two strategies to maximize the secrecy throughput of the primary user in a cognitive radio network by optimizing beamforming, rate parameters, and power allocation between the information signal and artificial noise of the secondary user, subject to secrecy outage and throughput constraints."
 date: 2014-09-08
 venue: 'IEEE Transactions on Wireless Communications'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6894130'
