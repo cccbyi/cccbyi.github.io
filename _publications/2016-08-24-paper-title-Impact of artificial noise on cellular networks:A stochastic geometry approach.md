@@ -18,4 +18,6 @@ citation: 'Wang H M, Wang C, Zheng T X, et al. Impact of artificial noise on cel
 **Index Terms**: Physical layer security, artificial noise, cellular network, pilot contamination, stochastic geometry, secrecy throughput.
 
 
-<img src='/images/0824.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/IOA.png' width = "600">
+
+<br/><img src='/images/IOA1.png' width = "600">
