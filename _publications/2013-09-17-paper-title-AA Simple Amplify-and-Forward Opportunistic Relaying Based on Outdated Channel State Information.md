@@ -18,4 +18,4 @@ citation: 'Wang C, Deng K, Li Y B, et al. A simple amplify-and-forward opportuni
 **Index Terms**: relay selection, outdated CSI, amplify-and-forward, outage probability, symbol error probability
 
 
-<img src='/images/0917.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/ASA.png' width = "600">
