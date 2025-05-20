@@ -18,4 +18,4 @@ citation: 'Wang C, Wang C C, Li Z, et al. STAR-RIS-enabled secure dual-functiona
 **Index Terms**:  STAR-RIS, dual-functional，radar-communication, symbol-level precoding, distance-majorization.
 
 
-<img src='/images/0721.png' style='float: right; margin: 5px;'>
+<br/><img src='/images/ST1png' width = "600">
