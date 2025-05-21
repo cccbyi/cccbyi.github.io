@@ -3,7 +3,6 @@ title: "Excellent Doctoral Dissertation of China Institute of Communications(201
 excerpt: ""
 collection: awards
 permalink: /awards/2016-awards-2
-date: 2016
 ---
 
 
