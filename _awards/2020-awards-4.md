@@ -3,7 +3,6 @@ title: "IEEE International Conference on Space-Air-Ground Computing Best Paper A
 excerpt: ""
 collection: awards
 permalink: /awards/2020-awards-4
-date: 2020
 ---
 
 
