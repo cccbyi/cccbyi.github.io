@@ -220,12 +220,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
   submitted:
     output: true
     permalink: /:collection/:path/
@@ -234,7 +228,14 @@ collections:
     permalink: /:collection/:path/ 
   models:
     output: true
-    permalink: /:collection/:path/ 
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+ 
 
 # Defaults
 defaults:
