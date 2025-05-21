@@ -275,7 +275,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _submitted papers
+  # _submitted
   - scope:
       path: ""
       type: submitted
@@ -284,7 +284,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
   # _portfolio
   - scope:
       path: ""
