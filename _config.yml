@@ -225,7 +225,7 @@ collections:
     permalink: /:collection/:path/
   awards:
     output: true
-    permalink: /:collection/:path/ 
+    permalink: /awards/:path/
   models:
     output: true
     permalink: /:collection/:path/
