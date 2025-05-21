@@ -3,7 +3,6 @@ title: "Excellent Doctoral Dissertation of Shaanxi Province(2018)"
 excerpt: ""
 collection: awards
 permalink: /awards/2018-awards-3
-date: 2018
 ---
 
 
