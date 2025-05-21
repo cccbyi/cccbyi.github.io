@@ -319,7 +319,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+nav: navigation/main
 
 # Sass/SCSS
 sass:
