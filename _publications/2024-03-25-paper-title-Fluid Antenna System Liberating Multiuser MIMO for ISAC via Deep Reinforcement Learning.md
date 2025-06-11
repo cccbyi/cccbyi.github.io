@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-03-25-paper-title-Fluid Antenna System Liberating Multiuser MIMO for ISAC via Deep Reinforcement Learning
 excerpt: "<img src='/images/0325.png'  style='float: right; margin: 5px;'>This paper investigates the joint optimization of port selection and precoding for a fluid antenna system (FAS)-assisted multiuser MIMO ISAC system using deep reinforcement learning to maximize the sum rate under a sensing constraint."
 date: 2024-03-25
-venue: 'Sci China Inf Sci'
+venue: 'IEEE Transactions on Wireless Communications'
 paperurl: 'https://discovery.ucl.ac.uk/id/eprint/10191113/2/Wong_Fluid%20Antenna%20System%20Liberating%20Multiuser%20MIMO%20for%20ISAC%20via%20Deep%20Reinforcement%20Learning_AAM.pdf'
 thumbnail: '/images/0325.png'
 citation: 'Wang, Chao, et al. "Fluid antenna system liberating multiuser MIMO for ISAC via deep reinforcement learning." IEEE Transactions on Wireless Communications (2024).'
