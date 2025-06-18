@@ -291,10 +291,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _award
+  # _awards
   - scope:
       path: ""
-      type: award
+      type: awards
     values:
       layout: single
       author_profile: true
