@@ -13,7 +13,7 @@ title                    : "Chao Wang"
 title_separator          : "-"
 name                     : Chao Wang
 description              : &description "personal description"
-url                      : https://cccbyi.github.io
+url                      : https://drwangchao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cccbyi/cccbyi.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Associate Professor at Xidian University"
   location         : "Xi'an"
   employer         : "Xidian University"
-  uri              : "https://cccbyi.github.io"
+  uri              : "https://drwangchao.github.io"
   email            : "chaowang@xidian.edu.cn"
 
   # Academic websites
