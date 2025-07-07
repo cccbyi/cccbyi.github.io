@@ -3,7 +3,7 @@ title: "Large Language Model Empowered Design of Fluid Antenna Systems:Challenge
 collection: submitted
 category: manuscripts
 permalink: /submitted/2025-08-02-paper-title-Large Language Model Empowered Design of Fluid Antenna Systems:Challenges, Frameworks, and Case Studies for 6G
-excerpt: "<img src='/images/08021.png' width = '250' style='float: right; margin: 5px;'>The paper investigates the potential of Large Language Models (LLMs) in optimizing Fluid Antenna Systems (FAS) for 6G networks. It addresses key challenges such as channel extrapolation, flexible precoder design, and cooperative FAS optimization through a novel LLM-driven framework and case studies, demonstrating significant performance gains."
+excerpt: "<img src='/images/08021.png' width = '280' style='float: right; margin: 5px;'>The paper investigates the potential of Large Language Models (LLMs) in optimizing Fluid Antenna Systems (FAS) for 6G networks. It addresses key challenges such as channel extrapolation, flexible precoder design, and cooperative FAS optimization through a novel LLM-driven framework and case studies, demonstrating significant performance gains."
 date: 2025-08-02
 venue: 'Computer Science'
 paperurl: 'https://arxiv.org/pdf/2506.14288'
