@@ -13,9 +13,9 @@ title                    : "Chao Wang"
 title_separator          : "-"
 name                     : Chao Wang
 description              : &description "personal description"
-url                      : https://drwangchao.github.io
+url                      : https://cccbyi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "drwangchao/drwangchao.github.io"
+repository               : "cccbyi/cccbyi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Associate Professor at Xidian University"
   location         : "Xi'an"
   employer         : "Xidian University"
-  uri              : "https://drwangchao.github.io"
+  uri              : "https://cccbyi.github.io"
   email            : "chaowang@xidian.edu.cn"
 
   # Academic websites
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "drwangchao"
+  github           : "cccbyi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
