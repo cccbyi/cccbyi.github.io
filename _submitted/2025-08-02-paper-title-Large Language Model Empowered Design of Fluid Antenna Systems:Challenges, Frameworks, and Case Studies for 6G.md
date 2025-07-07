@@ -7,7 +7,6 @@ excerpt: "<img src='/images/08021.png'  style='float: right; margin: 5px;'>The p
 date: 2025-08-02
 venue: 'Computer Science'
 paperurl: 'https://arxiv.org/pdf/2506.14288'
-thumbnail: '/images/1025.png'
 citation: 'Wang C, Wong K K, Li Z, et al. Large Language Model Empowered Design of Fluid Antenna Systems: Challenges, Frameworks, and Case Studies for 6G[J]. arXiv preprint arXiv:2506.14288, 2025.'
 ---
 
@@ -17,6 +16,6 @@ citation: 'Wang C, Wong K K, Li Z, et al. Large Language Model Empowered Design 
 
 
 
-<br/><img src='/images/two1.png' width = "600">
+<br/><img src='/images/0802.png' width = "600">
 
-<br/><img src='/images/two2.png' width = "600">
+<br/><img src='/images/08022.png' width = "600">
