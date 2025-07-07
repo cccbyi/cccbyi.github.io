@@ -9,5 +9,5 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Models"
+  - title: "LLM Models"
     url: /models/
